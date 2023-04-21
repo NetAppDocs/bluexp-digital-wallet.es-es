@@ -24,7 +24,7 @@ Descubre las novedades de la cartera digital de BlueXP.
 
 === Notificaciones por correo electrónico
 
-Las notificaciones por correo electrónico ya son compatibles con Digital Wallet.
+Las notificaciones por correo electrónico ahora son compatibles con la cartera digital de BlueXP.
 
 Si configura los ajustes de notificación, puede recibir notificaciones por correo electrónico cuando sus licencias de BYOL estén a punto de expirar (una notificación de "advertencia") o si ya han caducado (una notificación de "error").
 
@@ -34,7 +34,7 @@ https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-monitor-cm-operatio
 
 === Capacidad con licencia para suscripciones al mercado
 
-Al visualizar la gestión de licencias basada en la capacidad para Cloud Volumes ONTAP, la cartera digital ahora muestra la capacidad con licencia que compraste con las ofertas privadas del mercado.
+Al visualizar la gestión de licencias basadas en la capacidad para Cloud Volumes ONTAP, la cartera digital de BlueXP ahora muestra la capacidad con licencia que compraste con las ofertas privadas del mercado.
 
 https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html["Aprenda a ver la capacidad consumida en su cuenta"].
 
@@ -46,7 +46,7 @@ https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-license
 
 === Suscripciones y contratos anuales
 
-Sus suscripciones a PAYGO y los contratos anuales para BlueXP ya están disponibles para su visualización y gestión desde Digital Wallet.
+Ya puedes ver y gestionar tus suscripciones PAYGO y contratos anuales de BlueXP desde la cartera digital de BlueXP.
 
 https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-subscriptions.html["Obtenga información sobre cómo administrar sus suscripciones"].
 
@@ -58,7 +58,7 @@ https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-subscriptions.ht
 
 === I/O y capacidad WORM optimizadas
 
-La cartera digital ahora muestra un resumen del paquete de licencias de I/o optimizadas y la capacidad WORM aprovisionada para los sistemas Cloud Volumes ONTAP de toda su cuenta.
+La cartera digital de BlueXP ahora muestra un resumen del paquete de licencias de I/O optimizado y la capacidad WORM aprovisionada para sistemas de Cloud Volumes ONTAP en toda tu cuenta.
 
 Estos detalles pueden ayudarle a comprender mejor la carga y si necesita adquirir capacidad adicional.
 
@@ -84,9 +84,9 @@ https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-license
 
 === La capacidad consumida
 
-Digital Wallet muestra ahora la capacidad total consumida en su cuenta y la capacidad consumida por paquete de licencias. Esto puede ayudarle a entender cómo se le está cargando y si necesita adquirir capacidad adicional.
+Ahora le muestra la capacidad total consumida en su cuenta y la capacidad consumida con su paquete de licencia. Esto puede ayudarle a entender cómo se le está cargando y si necesita adquirir capacidad adicional.
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/media/screenshot-digital-wallet-summary.png["Una captura de pantalla que muestra la página de Digital Wallet para licencias basadas en capacidad. La página proporciona información general de la capacidad que se consume en la cuenta y, a continuación, divide la capacidad consumida por paquete de licencias."]
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/media/screenshot-digital-wallet-summary.png["Una captura de pantalla que muestra la página de las licencias basadas en capacidad. La página proporciona información general de la capacidad que se consume en la cuenta y, a continuación, divide la capacidad consumida por paquete de licencias."]
 
 
 
@@ -108,6 +108,6 @@ https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-on-prem-clusters
 
 === Los términos de licencia se actualizan automáticamente
 
-Si cambias la capacidad o el plazo de cualquiera de tus licencias, los términos de la licencia ahora se actualizan automáticamente en la Cartera digital. No necesita actualizar manualmente la licencia usted mismo.
+Si cambia la capacidad o el plazo de cualquiera de sus licencias, los términos de la licencia se actualizarán automáticamente en la . No necesita actualizar manualmente la licencia usted mismo.
 
 La actualización automática de licencias funciona con todos los tipos de licencias de Cloud Volumes ONTAP y todas las licencias para servicios de datos.

@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-manage-subscriptions.html 
 keywords: digital wallet, subscriptions, paygo subscriptions, contracts, annual contracts 
-summary: Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se le redirigirá al sitio web de BlueXP donde necesita guardar su suscripción y asociarla a cuentas específicas. Una vez que se haya suscrito, cada suscripción estará disponible para administrar desde Digital Wallet. 
+summary: Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se le redirigirá al sitio web de BlueXP donde necesita guardar su suscripción y asociarla a cuentas específicas. Una vez que se haya suscrito, cada suscripción se puede gestionar desde la cartera digital de BlueXP. 
 ---
 = Gestionar suscripciones y contratos de PAYGO
 :hardbreaks:
@@ -14,13 +14,13 @@ summary: Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se
 
 
 [role="lead"]
-Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se le redirigirá al sitio web de BlueXP donde necesita guardar su suscripción y asociarla a cuentas específicas. Una vez que se haya suscrito, cada suscripción estará disponible para administrar desde Digital Wallet.
+Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se le redirigirá al sitio web de BlueXP donde necesita guardar su suscripción y asociarla a cuentas específicas. Una vez que se haya suscrito, cada suscripción se puede gestionar desde la cartera digital de BlueXP.
 
 
 
 == Ver sus suscripciones
 
-La cartera digital proporciona detalles sobre cada suscripción a PAYGO y el contrato anual asociado con su cuenta BlueXP y con Astra (Astra utiliza el servicio de carga de BlueXP).
+La cartera digital de BlueXP ofrece detalles sobre cada suscripción PAYGO y el contrato anual asociado con tu cuenta de BlueXP y con Astra Control (Astra Control usa el servicio de carga de BlueXP).
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
@@ -32,7 +32,7 @@ Solo verá las suscripciones asociadas a la cuenta que está viendo actualmente.
 +
 ** Expanda una fila para ver más detalles.
 +
-image:screenshot-subscriptions-expand.png["Una captura de pantalla de la ficha Suscripciones en la cartera digital, donde puede seleccionar la flecha al final de una fila para ampliarla."]
+image:screenshot-subscriptions-expand.png["Una captura de pantalla de la pestaña Suscripciones en la cartera digital donde puede seleccionar la flecha al final de una fila para expandirla."]
 
 ** Seleccione image:icon-column-selector.png["el icono de más al final del encabezado de la tabla"] para elegir las columnas que aparecen en la tabla.
 +
@@ -49,8 +49,8 @@ N.A.:: Si observa N/A en la tabla, la información no está disponible en la API
 Contratos::
 +
 --
-** Si expande los detalles de un contrato, el monedero digital muestra lo que está disponible para su plan actual: Las opciones de contrato y las unidades (capacidad o número de nodos).
-** El monedero digital identificará la fecha de finalización y si el contrato se renovará pronto, finalizará pronto o si ya ha finalizado.
+** Si amplias los detalles de un contrato, en la cartera digital de BlueXP se mostrará lo que hay disponible en tu plan actual: Las opciones y las unidades de contrato (capacidad o número de nodos).
+** La cartera digital de BlueXP identifica la fecha de finalización y si el contrato se renovará pronto, finalizará pronto o si ya ha finalizado.
 ** Si tienes un contrato de AWS y cambiaste alguna de las opciones del contrato después de la fecha de inicio, asegúrate de validar las opciones del contrato desde AWS Marketplace.
 
 
@@ -63,7 +63,7 @@ Contratos::
 
 == Gestione sus suscripciones
 
-Puede gestionar sus suscripciones desde Digital Wallet cambiando el nombre de una suscripción y eligiendo las cuentas asociadas a la suscripción.
+Puedes gestionar tus suscripciones desde la cartera digital de BlueXP si cambias el nombre de una suscripción y seleccionas las cuentas asociadas a la suscripción.
 
 Por ejemplo, digamos que tiene dos cuentas y cada una se factura mediante suscripciones independientes. Puede desasociar una suscripción de una de las cuentas para que los usuarios de esa cuenta no elijan accidentalmente la suscripción incorrecta al crear un entorno de trabajo de Cloud Volumes ONTAP.
 

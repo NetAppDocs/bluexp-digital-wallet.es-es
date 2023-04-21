@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-manage-data-services-licenses.html 
 keywords: data services, byol, cloud backup, cloud tiering, data sense, cloud data sense, obtain license file, nlf, add license, update license 
-summary: 'La cartera digital de BlueXP te permite gestionar las licencias que has adquirido directamente de NetApp (BYOL) para su uso con Cloud Backup, Cloud Data Sense y Cloud Tiering. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.' 
+summary: 'La cartera digital de BlueXP te permite gestionar las licencias que adquiriste directamente a NetApp (BYOL) para utilizarlas con el backup y la recuperación, la clasificación y la organización en niveles de BlueXP. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.' 
 ---
 = Gestiona las licencias para los servicios de datos de BlueXP
 :hardbreaks:
@@ -14,13 +14,13 @@ summary: 'La cartera digital de BlueXP te permite gestionar las licencias que ha
 
 
 [role="lead"]
-La cartera digital de BlueXP te permite gestionar las licencias que has adquirido directamente de NetApp (BYOL) para su uso con Cloud Backup, Cloud Data Sense y Cloud Tiering. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.
+La cartera digital de BlueXP te permite gestionar las licencias que adquiriste directamente a NetApp (BYOL) para utilizarlas con el backup y la recuperación, la clasificación y la organización en niveles de BlueXP. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.
 
 Las instrucciones de esta página proporcionan información que se aplica a cada servicio. Para obtener información más específica sobre la licencia de estos servicios, consulte las siguientes páginas:
 
-* https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-licensing-cloud-backup.html["Configure la licencia para Cloud Backup"^]
-* https://docs.netapp.com/us-en/cloud-manager-data-sense/task-licensing-datasense.html["Configure la licencia de Cloud Data Sense"^]
-* https://docs.netapp.com/us-en/cloud-manager-tiering/task-licensing-cloud-tiering.html["Configure las licencias para Cloud Tiering"^]
+* https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-licensing-cloud-backup.html["Configura las licencias para el backup y la recuperación de BlueXP"^]
+* https://docs.netapp.com/us-en/cloud-manager-data-sense/task-licensing-datasense.html["Configura las licencias para la clasificación de BlueXP"^]
+* https://docs.netapp.com/us-en/cloud-manager-tiering/task-licensing-cloud-tiering.html["Configura las licencias para la organización en niveles de BlueXP"^]
 
 
 
@@ -62,7 +62,7 @@ Si su cuenta del sitio de soporte de NetApp no está disponible en la lista desp
 
 ** Si tienes el archivo de licencia (necesario cuando usas BlueXP en modo privado), selecciona la opción *Cargar archivo de licencia* y sigue las indicaciones para adjuntar el archivo.
 +
-image:screenshot_services_license_add2.png["Una captura de pantalla que muestra la página para añadir la licencia BYOL de Cloud Backup."]
+image:screenshot_services_license_add2.png["Una captura de pantalla que muestra la página para agregar la licencia BYOL."]
 
 
 
@@ -75,14 +75,14 @@ BlueXP añade la licencia.
 
 == Actualizar una licencia
 
-Si el plazo que tienes con la licencia se acerca a la fecha de caducidad, o si la capacidad que tienes con la licencia está llegando al límite, se te notificará en la cartera digital. Puedes actualizar la licencia antes de que caduque para que no haya interrupciones en la capacidad de usar el servicio de datos de BlueXP.
+Si el plazo que tienes con la licencia se acerca a la fecha de caducidad o si la capacidad que tienes con la licencia está llegando al límite, se te notificará en la cartera digital de BlueXP. Puedes actualizar la licencia antes de que caduque para que no haya interrupciones en la capacidad de usar el servicio de datos de BlueXP.
 
 image:screenshot_services_license_expire.png["Una captura de pantalla que muestra una licencia que está a punto de caducar en la página de Digital Wallet."]
 
 .Pasos
-. Haz clic en el icono de chat en la parte inferior derecha de BlueXP, o ponte en contacto con el servicio de soporte de, para solicitar una extensión de tu plazo o capacidad adicional a tu licencia para el número de serie concreto.
+. Haz clic en el icono de chat en la parte inferior derecha de BlueXP, o ponte en contacto con el servicio de soporte para solicitar una extensión de tu plazo o capacidad adicional a tu licencia para el número de serie concreto.
 +
-Tras pagar la licencia y registrarse en el sitio de soporte de NetApp, BlueXP actualiza automáticamente la licencia en la cartera digital y la página licencias de servicios de datos reflejarán el cambio en 5 a 10 minutos.
+Después de pagar la licencia y estar registrado en el sitio de soporte de NetApp, BlueXP actualiza automáticamente la licencia en la cartera digital y la página de licencias de servicios de datos reflejará el cambio que se ha producido en un plazo de 5 a 10 minutos.
 
 . Si BlueXP no puede actualizar automáticamente la licencia (por ejemplo, cuando utiliza BlueXP en modo privado), deberá cargar manualmente el archivo de licencia.
 +

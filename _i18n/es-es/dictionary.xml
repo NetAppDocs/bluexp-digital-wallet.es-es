@@ -74,14 +74,9 @@
   <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">Funciones</block>
   <block id="012ae05db65bea80da7b7050b5d96f9e" category="list-text">Gestione las licencias basadas en capacidad y en nodos de Cloud Volumes ONTAP</block>
   <block id="62d9aca3bac1caa2d9cff120588c3e35" category="list-text">Añade y gestiona licencias para los servicios de datos de BlueXP</block>
-  <block id="94c8d5dbc233a7f83819d5552acfe787" category="list-text">Gestiona las suscripciones a PAYGO y los contratos anuales asociados con tu cuenta de BlueXP y a Astra</block>
   <block id="68893f701c3397a3a6f6ae5a965a7ef6" category="list-text">Gestione las suscripciones Flex de Keystone para su uso con Cloud Volumes ONTAP y solicite cambios en la capacidad comprometida</block>
   <block id="385b7e85ac73053263ffe4f49784da13" category="list-text">Vea la información de estado del contrato de hardware y software de los clústeres de ONTAP en las instalaciones</block>
   <block id="ea22f9957523103248d84695e98b17ba" category="section-title">Servicios compatibles</block>
-  <block id="0cf6e0b36272b906da65f6af3ab672b0" category="paragraph">La cartera digital de BlueXP te permite gestionar las licencias para los siguientes servicios de BlueXP:</block>
-  <block id="dad57e95fc9a5390302ad830888cbdb9" category="list-text">Backup en el cloud</block>
-  <block id="d882bf73cd5caf1e5aa39edbf893ad74" category="list-text">Cloud Data SENSE</block>
-  <block id="92d2b6aba6afa3f690540cf3dba9b633" category="list-text">Organización en niveles del cloud</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="list-text">Cloud Volumes ONTAP</block>
   <block id="d0f1687c68ee0f0d9bac765716d18923" category="list-text">Clústeres de ONTAP en las instalaciones</block>
   <block id="a4f0f752cbc0651ce6551bad053b1ae6" category="summary">La cartera digital de BlueXP proporciona una gestión y supervisión centralizadas de tus licencias y suscripciones.</block>
@@ -240,15 +235,8 @@
   <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*Cerrar caso*: Proporcione detalles sobre por qué cierra el caso y haga clic en *Cerrar caso*.</block>
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Captura de pantalla que muestra las acciones que puede realizar después de seleccionar el menú de la última columna de la tabla.</block>
   <block id="e9a5c374fb47ed2ae5cc6108fb36d829" category="paragraph"><block ref="e9a5c374fb47ed2ae5cc6108fb36d829" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="4dc97d13f8afbf15e0936287290445d1" category="summary">La cartera digital de BlueXP te permite gestionar las licencias que has adquirido directamente de NetApp (BYOL) para su uso con Cloud Backup, Cloud Data Sense y Cloud Tiering. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.</block>
   <block id="e9598339aeb07702e2b24ef63fca36cc" category="doc">Gestiona las licencias para los servicios de datos de BlueXP</block>
   <block id="9733849463a86c6a043ab58c8ddf1ac4" category="paragraph">Las instrucciones de esta página proporcionan información que se aplica a cada servicio. Para obtener información más específica sobre la licencia de estos servicios, consulte las siguientes páginas:</block>
-  <block id="854a5b181af5166b0412d0786c77db0b" category="inline-link">Configure la licencia para Cloud Backup</block>
-  <block id="b984bca5aec62e5640849a3ce56f3a6c" category="list-text"><block ref="b984bca5aec62e5640849a3ce56f3a6c" category="inline-link-rx"></block></block>
-  <block id="0ed0a0ad5aadf8f8ef3ea382b8f4a106" category="inline-link">Configure la licencia de Cloud Data Sense</block>
-  <block id="b3b23402aeecfc18bdb1d8932564085d" category="list-text"><block ref="b3b23402aeecfc18bdb1d8932564085d" category="inline-link-rx"></block></block>
-  <block id="4b75686c0a14158ec6b99e93fbf1828b" category="inline-link">Configure las licencias para Cloud Tiering</block>
-  <block id="f896a045834fbc7eb21af1d43d98136b" category="list-text"><block ref="f896a045834fbc7eb21af1d43d98136b" category="inline-link-rx"></block></block>
   <block id="73acd586df3bf9938d39f0e738d5c161" category="section-title">Obtenga un archivo de licencia</block>
   <block id="f11bf973a6c8039ecfd0152979db21be" category="paragraph">Después de comprar una licencia, puede activar la licencia en BlueXP introduciendo el número de serie y la cuenta de NSS o cargando el archivo de licencia de NetApp (NLF). Los pasos a continuación muestran cómo obtener el archivo de licencia de NLF si planea utilizar ese método.</block>
   <block id="9d2169c1c2855b78a7aeaa4f42d27dc7" category="inline-link">Sitio de soporte de NetApp</block>
@@ -269,15 +257,10 @@
   <block id="bae190eec3db4a0dd635ae72756acde8" category="inline-link">Agregue la cuenta NSS a BlueXP</block>
   <block id="3a7d2aab6d3f158a52978777da89804f" category="paragraph">Si su cuenta del sitio de soporte de NetApp no está disponible en la lista desplegable,<block ref="6d9745cd4f1d60b55f06aef4c5cb6ec4" category="inline-link-rx"></block></block>
   <block id="6e2573cea3af840a0c24f94975047370" category="list-text">Si tienes el archivo de licencia (necesario cuando usas BlueXP en modo privado), selecciona la opción *Cargar archivo de licencia* y sigue las indicaciones para adjuntar el archivo.</block>
-  <block id="b91c77235ab93af32b475ca05ffa1ab2" category="inline-image-macro">Una captura de pantalla que muestra la página para añadir la licencia BYOL de Cloud Backup.</block>
-  <block id="78364824176e311173787bc994b841d4" category="paragraph"><block ref="78364824176e311173787bc994b841d4" category="inline-image-macro-rx" type="image"></block></block>
   <block id="9f7100a1f5980a935ee73427b4e84228" category="paragraph">BlueXP añade la licencia.</block>
   <block id="6c1c5737355a8b30e87ad5d7c6da9553" category="section-title">Actualizar una licencia</block>
-  <block id="f2325e725df0937d64ac12917b15a3b3" category="paragraph">Si el plazo que tienes con la licencia se acerca a la fecha de caducidad, o si la capacidad que tienes con la licencia está llegando al límite, se te notificará en la cartera digital. Puedes actualizar la licencia antes de que caduque para que no haya interrupciones en la capacidad de usar el servicio de datos de BlueXP.</block>
   <block id="89ec6475bcd2a52ce9ca1c8fa843339e" category="inline-image-macro">Una captura de pantalla que muestra una licencia que está a punto de caducar en la página de Digital Wallet.</block>
   <block id="b16535eaa5694c59eb7ff71777c5cd59" category="paragraph"><block ref="b16535eaa5694c59eb7ff71777c5cd59" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="bb99d6c3efadbec99aeab8b89922e30d" category="list-text">Haz clic en el icono de chat en la parte inferior derecha de BlueXP, o ponte en contacto con el servicio de soporte de, para solicitar una extensión de tu plazo o capacidad adicional a tu licencia para el número de serie concreto.</block>
-  <block id="8061535eb5e8bab52c4a8a0fdc119d14" category="paragraph">Tras pagar la licencia y registrarse en el sitio de soporte de NetApp, BlueXP actualiza automáticamente la licencia en la cartera digital y la página licencias de servicios de datos reflejarán el cambio en 5 a 10 minutos.</block>
   <block id="b74318cb9e5cf2bae938953860aade06" category="list-text">Si BlueXP no puede actualizar automáticamente la licencia (por ejemplo, cuando utiliza BlueXP en modo privado), deberá cargar manualmente el archivo de licencia.</block>
   <block id="b2b168bd64a341a85c749cb61bba40cb" category="inline-xref">Obtenga el archivo de licencia del sitio de soporte de NetApp</block>
   <block id="5281a9b97c306047dc796d618670919d" category="list-text">Puede hacerlo <block ref="2ee9df93e68c4a0ffa870dc00950ab97" category="inline-xref-macro-rx"></block>.</block>
@@ -324,22 +307,18 @@
   <block id="490414e0366b091220802d406e52c076" category="doc">Lo nuevo</block>
   <block id="102787ed6297b34a7504b527e91d01d3" category="section-title">3 de abril de 2023</block>
   <block id="a67ce68ccac082ad54a552bdbcb6ecd7" category="section-title">Notificaciones por correo electrónico</block>
-  <block id="a08572617e25a61e8569807ac103ab07" category="paragraph">Las notificaciones por correo electrónico ya son compatibles con Digital Wallet.</block>
   <block id="380d0a0b2cec998dcd9f52b91b24304c" category="paragraph">Si configura los ajustes de notificación, puede recibir notificaciones por correo electrónico cuando sus licencias de BYOL estén a punto de expirar (una notificación de "advertencia") o si ya han caducado (una notificación de "error").</block>
   <block id="335e7f21f0fdfecbe9c04540dcb8cdd6" category="inline-link">Aprenda a configurar notificaciones por correo electrónico</block>
   <block id="497d867daded8927a3cf934337006373" category="paragraph"><block ref="497d867daded8927a3cf934337006373" category="inline-link-rx"></block></block>
   <block id="164bf9dea8d8396a2e7501258b908616" category="section-title">Capacidad con licencia para suscripciones al mercado</block>
-  <block id="1b8d4ee3ff5e577bc8524d6a5e73790e" category="paragraph">Al visualizar la gestión de licencias basada en la capacidad para Cloud Volumes ONTAP, la cartera digital ahora muestra la capacidad con licencia que compraste con las ofertas privadas del mercado.</block>
   <block id="207aaa44f72ba634c18fcc9bae44d655" category="inline-link">Aprenda a ver la capacidad consumida en su cuenta</block>
   <block id="1e9f781ad3dabc2f942313854ce94883" category="paragraph"><block ref="bcd8bf14da5e102dbc4b48dd0870869e" category="inline-link-rx"></block>.</block>
   <block id="5a4346a01828d72104a6540080377b25" category="section-title">6 de noviembre de 2022</block>
   <block id="36e33f823d687cad39366d44fd0b326d" category="section-title">Suscripciones y contratos anuales</block>
-  <block id="a7dad5ac7e311dedf2a82e4bb5a713dd" category="paragraph">Sus suscripciones a PAYGO y los contratos anuales para BlueXP ya están disponibles para su visualización y gestión desde Digital Wallet.</block>
   <block id="949b19dd7e9f6496c1125f7166270450" category="inline-link">Obtenga información sobre cómo administrar sus suscripciones</block>
   <block id="02a7eedc354fe91b04b9ff906dc9c760" category="paragraph"><block ref="dcb08a7187e62f8d5d6c3eba08ea6b8f" category="inline-link-rx"></block>.</block>
   <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">18 de septiembre de 2022</block>
   <block id="b269d65b4fd592fc59288f3c9c3917b9" category="section-title">I/O y capacidad WORM optimizadas</block>
-  <block id="e1de90a0937196074c7abb9f8b5e5edf" category="paragraph">La cartera digital ahora muestra un resumen del paquete de licencias de I/o optimizadas y la capacidad WORM aprovisionada para los sistemas Cloud Volumes ONTAP de toda su cuenta.</block>
   <block id="c3304f9cf1f523f219fc4a936bde8242" category="paragraph">Estos detalles pueden ayudarle a comprender mejor la carga y si necesita adquirir capacidad adicional.</block>
   <block id="3f10ba55f7b5ee2ce092504fcea72477" category="section-title">31 de julio de 2022</block>
   <block id="b69737a8aa6d54e160fd215ef53825b5" category="section-title">Cambiar el método de carga</block>
@@ -348,9 +327,6 @@
   <block id="8c8503ff8c21813561363b608190163e" category="paragraph"><block ref="24cab88ee4e7cc87558a54f6745deabe" category="inline-link-rx"></block>.</block>
   <block id="1511b856d0328cfba458b8f83c2e94e3" category="section-title">3 de julio de 2022</block>
   <block id="dd83b22a815febb6c6547eab078bbf30" category="section-title">La capacidad consumida</block>
-  <block id="d5503d6062daaaa4326462970164cbac" category="paragraph">Digital Wallet muestra ahora la capacidad total consumida en su cuenta y la capacidad consumida por paquete de licencias. Esto puede ayudarle a entender cómo se le está cargando y si necesita adquirir capacidad adicional.</block>
-  <block id="232ac716fdabb7e9b9ba7c3a108574a7" category="inline-image-macro">Una captura de pantalla que muestra la página de Digital Wallet para licencias basadas en capacidad. La página proporciona información general de la capacidad que se consume en la cuenta y, a continuación, divide la capacidad consumida por paquete de licencias.</block>
-  <block id="998e6cc07bc5c3b4a2329ad21093316c" category="paragraph"><block ref="998e6cc07bc5c3b4a2329ad21093316c" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ba26e4556a0f160834687982b0479336" category="section-title">27 de febrero de 2022</block>
   <block id="ad542dc76a1c13d716648648c7052561" category="section-title">Licencias para clústeres de ONTAP en las instalaciones</block>
   <block id="cc6992a66b9fc6bd5f23a20beff49e2a" category="paragraph">Ahora puedes ver un inventario de tus clústeres de ONTAP on-premises junto con sus fechas de caducidad de los contratos de hardware y servicio. También hay más detalles disponibles sobre los clústeres.</block>
@@ -358,7 +334,6 @@
   <block id="770294ba582707dbf5d21f7add8b531e" category="paragraph"><block ref="d28003d0743d6fc8a920f6982b9bd603" category="inline-link-rx"></block>.</block>
   <block id="586301717819197e24001cac47efdaaa" category="section-title">2 de enero de 2022</block>
   <block id="d5ce756f503ae6211b9ef6c827e757be" category="section-title">Los términos de licencia se actualizan automáticamente</block>
-  <block id="310c945b52669c8754bf13907cbb5859" category="paragraph">Si cambias la capacidad o el plazo de cualquiera de tus licencias, los términos de la licencia ahora se actualizan automáticamente en la Cartera digital. No necesita actualizar manualmente la licencia usted mismo.</block>
   <block id="b2d68f8e07e0e6ca8d81ba9d15e96e7e" category="paragraph">La actualización automática de licencias funciona con todos los tipos de licencias de Cloud Volumes ONTAP y todas las licencias para servicios de datos.</block>
   <block id="94fd71e366753efc2c71fcdd0fc3afd4" category="summary">La cartera digital de BlueXP te permite ver los detalles del contrato de cada uno de tus clústeres de ONTAP on-premises. Si todavía no has detectado un clúster en BlueXP, también puedes hacerlo desde la cartera digital.</block>
   <block id="dc8526e1d318113e071717b2a8bb27b7" category="doc">Gestionar licencias para clústeres de ONTAP en las instalaciones</block>
@@ -400,16 +375,12 @@
   <block id="2b3c797a98693bc95eb014beb60621b8" category="list-text"><block ref="2b3c797a98693bc95eb014beb60621b8" category="inline-link-rx"></block></block>
   <block id="299867ed6070a6cda18ae92e5d434213" category="inline-link">Conozca cómo se detectan directamente los clústeres</block>
   <block id="99d7f3ff9fb7308bda3abc7d58891657" category="list-text"><block ref="99d7f3ff9fb7308bda3abc7d58891657" category="inline-link-rx"></block></block>
-  <block id="4d17b7f0d1f8c0ae69c0ec8d32fea349" category="summary">Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se le redirigirá al sitio web de BlueXP donde necesita guardar su suscripción y asociarla a cuentas específicas. Una vez que se haya suscrito, cada suscripción estará disponible para administrar desde Digital Wallet.</block>
   <block id="b01b1be092b95233172f870dc729234b" category="doc">Gestionar suscripciones y contratos de PAYGO</block>
   <block id="e858f445394700e621aa67dd8e3fe958" category="section-title">Ver sus suscripciones</block>
-  <block id="9c1b3fb5f48f73ce89025933ec931382" category="paragraph">La cartera digital proporciona detalles sobre cada suscripción a PAYGO y el contrato anual asociado con su cuenta BlueXP y con Astra (Astra utiliza el servicio de carga de BlueXP).</block>
   <block id="8c3682e85d7f4dbe8a46485082335dec" category="list-text">Seleccione *Suscripciones*.</block>
   <block id="1422eb9c77ef6c74d6abe35beedc5d64" category="paragraph">Solo verá las suscripciones asociadas a la cuenta que está viendo actualmente.</block>
   <block id="572e470335e0a6d55da05c732a01aed3" category="list-text">Cuando vea la información sobre sus suscripciones, puede interactuar con los detalles de la tabla de la siguiente manera:</block>
   <block id="6a1de13d318f22872902849cd26467b4" category="list-text">Expanda una fila para ver más detalles.</block>
-  <block id="d61aec883b403c61da2d8d8e19d78473" category="inline-image-macro">Una captura de pantalla de la ficha Suscripciones en la cartera digital, donde puede seleccionar la flecha al final de una fila para ampliarla.</block>
-  <block id="3a9d2caf2b3b63f1b3ab7d00e469b158" category="paragraph"><block ref="3a9d2caf2b3b63f1b3ab7d00e469b158" category="inline-image-macro-rx" type="image"></block></block>
   <block id="56594b7222b35921f9fe676eadf6bbdf" category="inline-image-macro">el icono de más al final del encabezado de la tabla</block>
   <block id="33d90cc16eaedf37738a3faf06f00f36" category="list-text">Seleccione <block ref="98b11313fea6c4106e5a3c018f0ffbc9" category="inline-image-macro-rx" type="image"></block> para elegir las columnas que aparecen en la tabla.</block>
   <block id="c090ce3dc0b8ea780bfa95c666328c67" category="paragraph">Tenga en cuenta que las columnas término y renovación automática no aparecen de forma predeterminada. La columna renovación automática muestra información de renovación únicamente para los contratos de Azure.</block>
@@ -419,11 +390,8 @@
   <block id="382b0f5185773fa0f67a8ed8056c7759" category="list-text">N.A.</block>
   <block id="716e98867696fbbeed00e3dcd1f76758" category="list-text">Si observa N/A en la tabla, la información no está disponible en la API del proveedor de cloud en este momento.</block>
   <block id="cd494d76449d5dfe0c0adfb2f3447761" category="list-text">Contratos</block>
-  <block id="8090b542b799e2f0268fddd048d44eda" category="list-text">Si expande los detalles de un contrato, el monedero digital muestra lo que está disponible para su plan actual: Las opciones de contrato y las unidades (capacidad o número de nodos).</block>
-  <block id="7f96d1365390f4c6a7c1befe0b068769" category="list-text">El monedero digital identificará la fecha de finalización y si el contrato se renovará pronto, finalizará pronto o si ya ha finalizado.</block>
   <block id="def1d5f1d4a6db4b59f941bed287221d" category="list-text">Si tienes un contrato de AWS y cambiaste alguna de las opciones del contrato después de la fecha de inicio, asegúrate de validar las opciones del contrato desde AWS Marketplace.</block>
   <block id="6942b724002d90bb0f705f478cdd6bf3" category="section-title">Gestione sus suscripciones</block>
-  <block id="ac3dad7b0d90a8896f44e77f84726619" category="paragraph">Puede gestionar sus suscripciones desde Digital Wallet cambiando el nombre de una suscripción y eligiendo las cuentas asociadas a la suscripción.</block>
   <block id="0c3ef8839b737ed6600351348aace81b" category="paragraph">Por ejemplo, digamos que tiene dos cuentas y cada una se factura mediante suscripciones independientes. Puede desasociar una suscripción de una de las cuentas para que los usuarios de esa cuenta no elijan accidentalmente la suscripción incorrecta al crear un entorno de trabajo de Cloud Volumes ONTAP.</block>
   <block id="e97d1d1134e32a84fb4d6d796e3e56a9" category="list-text">Seleccione el menú de acciones de la fila correspondiente a la suscripción que desea administrar.</block>
   <block id="1dea06c0cd8c3b77e4597670a860c155" category="inline-image-macro">Una captura de pantalla del menú de acciones para una suscripción.</block>
@@ -431,7 +399,6 @@
   <block id="1201c1bd99e40a424aee33ac62838b92" category="list-text">Elija cambiar el nombre de la suscripción o administrar las cuentas de BlueXP asociadas a la suscripción.</block>
   <block id="7e3a4c0ec1aee45acf094839bb9c449f" category="summary">Gestione sus licencias basadas en nodos en la cartera digital para garantizar que cada sistema Cloud Volumes ONTAP tiene una licencia válida con la capacidad necesaria.</block>
   <block id="de94398a333e3b7bdafad2ddf3232331" category="doc">Gestione licencias basadas en nodos</block>
-  <block id="15d021d83ccb68dbaf63683ce6741fee" category="paragraph">Gestione licencias basadas en nodos en la cartera digital para garantizar que cada sistema Cloud Volumes ONTAP tiene una licencia válida con la capacidad necesaria.</block>
   <block id="4627bd080634e9380c75a1cc04a09486" category="paragraph">_Licencias basadas en nodos_ son el modelo de licencias de la generación anterior (y no están disponibles para nuevos clientes):</block>
   <block id="81f9d97336a30fb7be6f8d770fee25eb" category="list-text">Las licencias BYOL que se compraron a NetApp</block>
   <block id="17ac9e85cf5b6f7b77acf61fb7721242" category="list-text">Suscripciones de pago por horas de uso (PAYGO) desde el mercado de su proveedor de cloud</block>
@@ -549,4 +516,37 @@
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Seminarios web sobre el cloud</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Toda la documentación de BlueXP</block>
   <block id="49f326995814ee311b340478f99f992f" category="doc">Documentación de la cartera digital de BlueXP</block>
+  <block id="d73d2254cb7a33ffdc126efbce99e623" category="list-text">Gestiona las suscripciones a PAYGO y los contratos anuales asociados con tu cuenta de BlueXP y a Astra Control</block>
+  <block id="bf4700247951934a88713e31aa00a0a6" category="paragraph">La cartera digital de BlueXP permite gestionar las licencias para lo siguiente:</block>
+  <block id="be062cdcabbb3055334e8f19b4bdf378" category="list-text">Backup y recuperación</block>
+  <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="list-text">Clasificación</block>
+  <block id="337c62c6b6eb7319bae58701105e889c" category="list-text">Organización en niveles</block>
+  <block id="fd75ff71faa02dfc85d4684cc9a98740" category="summary">La cartera digital de BlueXP te permite gestionar las licencias que adquiriste directamente a NetApp (BYOL) para utilizarlas con el backup y la recuperación, la clasificación y la organización en niveles de BlueXP. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.</block>
+  <block id="f4b04af639ebf32754e26b928989f33f" category="inline-link">Configura las licencias para el backup y la recuperación de BlueXP</block>
+  <block id="10ec558978234bae716554274b27c5bc" category="list-text"><block ref="10ec558978234bae716554274b27c5bc" category="inline-link-rx"></block></block>
+  <block id="6212c283c0695ee1a154f1a6cdde74ef" category="inline-link">Configura las licencias para la clasificación de BlueXP</block>
+  <block id="393acb1dea64f92d858ed4b9c5d6deda" category="list-text"><block ref="393acb1dea64f92d858ed4b9c5d6deda" category="inline-link-rx"></block></block>
+  <block id="8202299929ccdfe388049a03c2c36d60" category="inline-link">Configura las licencias para la organización en niveles de BlueXP</block>
+  <block id="7446ed3e56afcef7894742c01a3465b0" category="list-text"><block ref="7446ed3e56afcef7894742c01a3465b0" category="inline-link-rx"></block></block>
+  <block id="f5b39d30a98c93c6a597de76a3901496" category="inline-image-macro">Una captura de pantalla que muestra la página para agregar la licencia BYOL.</block>
+  <block id="2ab8c9555cb0a7278c9c119126d09972" category="paragraph"><block ref="2ab8c9555cb0a7278c9c119126d09972" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8d16d75f7a68c03867a9fa6a0c1e8e53" category="paragraph">Si el plazo que tienes con la licencia se acerca a la fecha de caducidad o si la capacidad que tienes con la licencia está llegando al límite, se te notificará en la cartera digital de BlueXP. Puedes actualizar la licencia antes de que caduque para que no haya interrupciones en la capacidad de usar el servicio de datos de BlueXP.</block>
+  <block id="2778ca24e217e309a35a740dcd70d977" category="list-text">Haz clic en el icono de chat en la parte inferior derecha de BlueXP, o ponte en contacto con el servicio de soporte para solicitar una extensión de tu plazo o capacidad adicional a tu licencia para el número de serie concreto.</block>
+  <block id="1b87732cda1ee77b5952013e06e1ac10" category="paragraph">Después de pagar la licencia y estar registrado en el sitio de soporte de NetApp, BlueXP actualiza automáticamente la licencia en la cartera digital y la página de licencias de servicios de datos reflejará el cambio que se ha producido en un plazo de 5 a 10 minutos.</block>
+  <block id="d128bda2634e1051cc984231da065144" category="paragraph">Las notificaciones por correo electrónico ahora son compatibles con la cartera digital de BlueXP.</block>
+  <block id="016c818ed3128119f94a31cbec32bf1f" category="paragraph">Al visualizar la gestión de licencias basadas en la capacidad para Cloud Volumes ONTAP, la cartera digital de BlueXP ahora muestra la capacidad con licencia que compraste con las ofertas privadas del mercado.</block>
+  <block id="b3e680bd6b6b80e2fd4f5bd19f3ad015" category="paragraph">Ya puedes ver y gestionar tus suscripciones PAYGO y contratos anuales de BlueXP desde la cartera digital de BlueXP.</block>
+  <block id="dfc3d3012360c41f119ce032ebb3ed8b" category="paragraph">La cartera digital de BlueXP ahora muestra un resumen del paquete de licencias de I/O optimizado y la capacidad WORM aprovisionada para sistemas de Cloud Volumes ONTAP en toda tu cuenta.</block>
+  <block id="290fbe7a9d91cd4191566b8d26837eb2" category="paragraph">Ahora le muestra la capacidad total consumida en su cuenta y la capacidad consumida con su paquete de licencia. Esto puede ayudarle a entender cómo se le está cargando y si necesita adquirir capacidad adicional.</block>
+  <block id="61589f40a840f6f60d0d36160690dc0e" category="inline-image-macro">Una captura de pantalla que muestra la página de las licencias basadas en capacidad. La página proporciona información general de la capacidad que se consume en la cuenta y, a continuación, divide la capacidad consumida por paquete de licencias.</block>
+  <block id="ec263309aca016e16fe4380d1c571c9e" category="paragraph"><block ref="ec263309aca016e16fe4380d1c571c9e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ccb04438d71ca79f2a97704ba47b5adf" category="paragraph">Si cambia la capacidad o el plazo de cualquiera de sus licencias, los términos de la licencia se actualizarán automáticamente en la . No necesita actualizar manualmente la licencia usted mismo.</block>
+  <block id="682e041ff00069faf1e43f1e418221a6" category="summary">Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se le redirigirá al sitio web de BlueXP donde necesita guardar su suscripción y asociarla a cuentas específicas. Una vez que se haya suscrito, cada suscripción se puede gestionar desde la cartera digital de BlueXP.</block>
+  <block id="65459c618528464246bc4dd16dea72ba" category="paragraph">La cartera digital de BlueXP ofrece detalles sobre cada suscripción PAYGO y el contrato anual asociado con tu cuenta de BlueXP y con Astra Control (Astra Control usa el servicio de carga de BlueXP).</block>
+  <block id="69cda14c45037fc1c766e6b7626c706b" category="inline-image-macro">Una captura de pantalla de la pestaña Suscripciones en la cartera digital donde puede seleccionar la flecha al final de una fila para expandirla.</block>
+  <block id="d6e80e5ccdacdc912b76ab91b58f6023" category="paragraph"><block ref="d6e80e5ccdacdc912b76ab91b58f6023" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="41f51117bfa13081af4c8a2db1a7ab58" category="list-text">Si amplias los detalles de un contrato, en la cartera digital de BlueXP se mostrará lo que hay disponible en tu plan actual: Las opciones y las unidades de contrato (capacidad o número de nodos).</block>
+  <block id="25b3c421a2199fb638256d316af13699" category="list-text">La cartera digital de BlueXP identifica la fecha de finalización y si el contrato se renovará pronto, finalizará pronto o si ya ha finalizado.</block>
+  <block id="c2e2efadf42aef45b4e8e6b176f32df0" category="paragraph">Puedes gestionar tus suscripciones desde la cartera digital de BlueXP si cambias el nombre de una suscripción y seleccionas las cuentas asociadas a la suscripción.</block>
+  <block id="5a91158751eaabe4d195cd633fa37db6" category="paragraph">Gestiona las licencias basadas en nodos en la cartera digital para garantizar que cada sistema de Cloud Volumes ONTAP tenga una licencia válida con la capacidad requerida.</block>
 </blocks>

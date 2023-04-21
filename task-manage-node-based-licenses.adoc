@@ -14,7 +14,7 @@ summary: Gestione sus licencias basadas en nodos en la cartera digital para gara
 
 
 [role="lead"]
-Gestione licencias basadas en nodos en la cartera digital para garantizar que cada sistema Cloud Volumes ONTAP tiene una licencia válida con la capacidad necesaria.
+Gestiona las licencias basadas en nodos en la cartera digital para garantizar que cada sistema de Cloud Volumes ONTAP tenga una licencia válida con la capacidad requerida.
 
 _Licencias basadas en nodos_ son el modelo de licencias de la generación anterior (y no están disponibles para nuevos clientes):
 
