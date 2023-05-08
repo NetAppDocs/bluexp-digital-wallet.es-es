@@ -22,6 +22,8 @@ Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se le redir
 
 La cartera digital de BlueXP ofrece detalles sobre cada suscripción PAYGO y el contrato anual asociado con tu cuenta de BlueXP y con Astra Control (Astra Control usa el servicio de carga de BlueXP).
 
+Para Google Cloud, también puedes identificar suscripciones de Marketplace asociadas a una oferta privada, lo que te permite verificar que has aceptado la oferta correctamente.
+
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
 . Seleccione *Suscripciones*.
@@ -46,12 +48,14 @@ Tenga en cuenta lo siguiente acerca de lo que puede ver en la tabla:
 +
 Fecha de inicio:: La fecha de inicio es cuando ha asociado correctamente la suscripción a su cuenta y se ha iniciado la carga.
 N.A.:: Si observa N/A en la tabla, la información no está disponible en la API del proveedor de cloud en este momento.
+Duración:: Si su suscripción a Google Cloud está asociada a una oferta privada y esa oferta privada se modificó después de su creación y aceptación, el término muestra N/A. En este escenario, la respuesta de API que recibimos de Google Cloud Marketplace no incluye información relacionada con los términos.
 Contratos::
 +
 --
 ** Si amplias los detalles de un contrato, en la cartera digital de BlueXP se mostrará lo que hay disponible en tu plan actual: Las opciones y las unidades de contrato (capacidad o número de nodos).
 ** La cartera digital de BlueXP identifica la fecha de finalización y si el contrato se renovará pronto, finalizará pronto o si ya ha finalizado.
 ** Si tienes un contrato de AWS y cambiaste alguna de las opciones del contrato después de la fecha de inicio, asegúrate de validar las opciones del contrato desde AWS Marketplace.
+** Si tienes una oferta privada de Google Cloud, las opciones de contrato no están disponibles.
 
 
 --

@@ -549,4 +549,18 @@
   <block id="25b3c421a2199fb638256d316af13699" category="list-text">La cartera digital de BlueXP identifica la fecha de finalización y si el contrato se renovará pronto, finalizará pronto o si ya ha finalizado.</block>
   <block id="c2e2efadf42aef45b4e8e6b176f32df0" category="paragraph">Puedes gestionar tus suscripciones desde la cartera digital de BlueXP si cambias el nombre de una suscripción y seleccionas las cuentas asociadas a la suscripción.</block>
   <block id="5a91158751eaabe4d195cd633fa37db6" category="paragraph">Gestiona las licencias basadas en nodos en la cartera digital para garantizar que cada sistema de Cloud Volumes ONTAP tenga una licencia válida con la capacidad requerida.</block>
+  <block id="71bff2737bdd059023a4784358e71a64" category="section-title">7 de mayo de 2023</block>
+  <block id="060a6559f6065c5058aca6b22d897bce" category="section-title">Ofertas privadas de Google Cloud</block>
+  <block id="bfe876190faa5e7a4cd6d5029395b658" category="paragraph">La cartera digital de BlueXP ahora identifica las suscripciones a Google Cloud Marketplace que están asociadas a una oferta privada y muestra la fecha de finalización y la duración de la suscripción. Esta mejora le permite verificar que ha aceptado con éxito la oferta privada y validar sus términos.</block>
+  <block id="2cd5985150a2728c0c6295c5162b2b1d" category="section-title">Desglose del uso de carga</block>
+  <block id="d0f5a029263e80e902caf444fa5e9080" category="paragraph">Ahora puede averiguar por qué se le cobra cuando está suscrito a licencias basadas en capacidad. Puede descargar los siguientes tipos de informes de uso desde la cartera digital de BlueXP. Los informes de uso proporcionan los detalles de capacidad de las suscripciones y cómo se le cobra por los recursos de sus suscripciones a Cloud Volumes ONTAP. Los informes descargables se pueden compartir fácilmente con otros.</block>
+  <block id="ed54fb55b53f11e61f612ff99520f4bc" category="list-text">Uso del paquete Cloud Volumes ONTAP</block>
+  <block id="160ba974abba347f5e939a1a0acd5982" category="list-text">Uso de alto nivel</block>
+  <block id="bf951096cc9eea5fae867ec94f06dfa3" category="list-text">Uso de los equipos virtuales de almacenamiento</block>
+  <block id="3c5979c173a0a4fe3ff27e0e6185a693" category="list-text">Uso de volúmenes</block>
+  <block id="8156321649d649dc3e16c2849d8aa212" category="paragraph">Para obtener más información, consulte <block ref="862b3811f42dd37621050f0605c0d301" category="inline-link-macro-rx"></block>.</block>
+  <block id="76631958e748db22b905b65fb2cba5d2" category="paragraph">Para Google Cloud, también puedes identificar suscripciones de Marketplace asociadas a una oferta privada, lo que te permite verificar que has aceptado la oferta correctamente.</block>
+  <block id="cf5f3091e30dee6597885d8c0e0c357f" category="list-text">Duración</block>
+  <block id="314c4a4eeddb6d1cd1f813b95714f7a2" category="list-text">Si su suscripción a Google Cloud está asociada a una oferta privada y esa oferta privada se modificó después de su creación y aceptación, el término muestra N/A. En este escenario, la respuesta de API que recibimos de Google Cloud Marketplace no incluye información relacionada con los términos.</block>
+  <block id="3b3f3f7253f4c57a7eb145d69d119e28" category="list-text">Si tienes una oferta privada de Google Cloud, las opciones de contrato no están disponibles.</block>
 </blocks>
