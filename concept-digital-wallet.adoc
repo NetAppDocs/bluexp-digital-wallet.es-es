@@ -23,7 +23,7 @@ La cartera digital de BlueXP te permite gestionar y supervisar las licencias de 
 * Gestione las licencias basadas en capacidad y en nodos de Cloud Volumes ONTAP
 * Añade y gestiona licencias para los servicios de datos de BlueXP
 * Gestiona las suscripciones a PAYGO y los contratos anuales asociados con tu cuenta de BlueXP y a Astra Control
-* Gestione las suscripciones Flex de Keystone para su uso con Cloud Volumes ONTAP y solicite cambios en la capacidad comprometida
+* Gestione los servicios de suscripción de Keystone para su uso con Cloud Volumes ONTAP y solicite cambios en la capacidad comprometida
 * Vea la información de estado del contrato de hardware y software de los clústeres de ONTAP en las instalaciones
 
 

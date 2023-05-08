@@ -30,7 +30,7 @@ sidebar:
       url: "/task-manage-data-services-licenses.html"
     - title: Gestionar suscripciones y contratos de PAYGO
       url: "/task-manage-subscriptions.html"
-    - title: Gestiona las suscripciones de Keystone Flex
+    - title: Gestionar los servicios de suscripción de Keystone
       url: "/task-manage-keystone.html"
     - title: Gestiona las licencias para clústeres de ONTAP en las instalaciones
       url: "/task-manage-on-prem-clusters.html"

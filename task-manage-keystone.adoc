@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar 
 permalink: task-manage-keystone.html 
-keywords: license, licensing, install, keystone, requst capacity, link subscription, add keystone subscription, keystone subscription 
-summary: La página cartera digital le permite gestionar licencias para Cloud Volumes ONTAP desde una única ubicación. Puede añadir licencias nuevas y actualizar las licencias existentes. 
+keywords: license, licensing, install, keystone, request capacity, link subscription, add keystone subscription, keystone subscription 
+summary: Gestiona los servicios de suscripción de Keystone desde la cartera digital habilitando las suscripciones para que las puedas usar con Cloud Volumes ONTAP. También puede solicitar cambios en la capacidad comprometida y anular el enlace de las suscripciones. 
 ---
-= Gestione suscripciones de Keystone Flex
+= Gestionar los servicios de suscripción de Keystone
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
