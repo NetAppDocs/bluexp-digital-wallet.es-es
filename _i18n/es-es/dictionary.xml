@@ -3,26 +3,17 @@
   <block id="3346762ff8f7a33c4ab0e7fa6f5ae4bf" category="summary">Gestione sus licencias basadas en capacidad desde Digital Wallet para garantizar que su cuenta de NetApp tenga suficiente capacidad para sus sistemas Cloud Volumes ONTAP.</block>
   <block id="56a50532d8da2bebb09d6190c126140c" category="doc">Gestione licencias basadas en capacidad</block>
   <block id="93ed65a89f306426be7980ddc22595e8" category="paragraph">_Licencias basadas en la capacidad_ le permiten pagar por Cloud Volumes ONTAP por TIB de capacidad.</block>
-  <block id="d9bf30eba2f9818a8ee777ae42a8f9f5" category="paragraph">La _cartera digital_ le permite administrar licencias para Cloud Volumes ONTAP desde una única ubicación. Puede añadir licencias nuevas y actualizar las licencias existentes.</block>
   <block id="8caaaa4afae93c31b741be21eed669cc" category="inline-link">Más información acerca de las licencias de Cloud Volumes ONTAP</block>
   <block id="6e987a799bff743a20629c6963efee7e" category="paragraph"><block ref="88e663ceca138a2ba6bdf07d4cbe79f1" category="inline-link-rx"></block>.</block>
-  <block id="331320477ecac4cca1b63e686d99f8d3" category="section-title">Cómo se añaden las licencias a la cartera digital</block>
   <block id="792eeb7f686f2ad37b664f6478d40bed" category="paragraph">Tras adquirir una licencia de su representante de ventas de NetApp, NetApp le enviará un correo electrónico con el número de serie y detalles adicionales sobre la licencia.</block>
-  <block id="b6bc1ae4ef8c82767b9ae039ea083da2" category="paragraph">Mientras tanto, BlueXP consulta automáticamente al servicio de licencias de NetApp para obtener detalles sobre las licencias asociadas a su cuenta de la página de soporte de NetApp. Si no hay errores, BlueXP agrega automáticamente las licencias a la cartera digital.</block>
   <block id="ad0be4bc913a8026a3f5e42fc7656d23" category="inline-xref">Aprenda a agregar licencias adquiridas a su cuenta</block>
-  <block id="e71139eb9146e38a7b8cdb5f435f8ed1" category="paragraph">Si BlueXP no puede añadir la licencia, deberá añadirla manualmente a la cartera digital usted mismo. Por ejemplo, si el conector está instalado en una ubicación que no tiene acceso a Internet, tendrá que agregar las licencias usted mismo. <block ref="2b377ff52574668221716136185f8476" category="inline-xref-macro-rx"></block>.</block>
   <block id="03021ab228ad1d1c921bbf536e2913a4" category="section-title">Vea la capacidad consumida en su cuenta</block>
-  <block id="e54d493645f297f788982c1215f721bf" category="paragraph">El cartera digital le muestra la capacidad total que consume su cuenta y la capacidad que consume el paquete de licencias. Esto puede ayudarle a entender cómo se le está cargando y si necesita adquirir capacidad adicional.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Pasos</block>
   <block id="43bfd35e9b57eaace0eafa6750af5ff7" category="list-text">En el menú de navegación de BlueXP, seleccione *Gobierno &gt; cartera digital*.</block>
   <block id="e83a5b2754cd537ac6467dc025115726" category="list-text">En la pestaña *Cloud Volumes ONTAP*, mantenga seleccionada la opción *Licencias basadas en capacidad*.</block>
   <block id="2bd469c6a2a1a44818909050205d416b" category="list-text">Consulte el resumen de los paquetes, donde se muestra la capacidad consumida, la capacidad asignada previamente total y la capacidad total de PAYGO.</block>
   <block id="29f9c9781f75b695cb6c7c93910280cd" category="list-text">_Total consumido Capacity_ es la capacidad total aprovisionada de todos los sistemas de Cloud Volumes ONTAP de su cuenta de NetApp. La carga se basa en el tamaño aprovisionado de cada volumen, independientemente del espacio local, utilizado, almacenado o efectivo dentro del volumen.</block>
   <block id="def968f0e18d0f7aed6421ac81039272" category="list-text">_Total_capacidad precomprometida_ es la capacidad total con licencia (contrato BYOL o Marketplace) que ha adquirido a NetApp.</block>
-  <block id="4cca90046112da5c5d3a703dafebbb7e" category="list-text">_Total PAYGO_ es la capacidad total aprovisionada mediante suscripciones a Cloud Marketplace. La carga mediante PAYGO se utiliza sólo si la capacidad consumida es superior a la capacidad con licencia o si no hay ninguna licencia BYOL disponible en la cartera digital.</block>
-  <block id="6805f1cb53971ab8cf6263bd093c5d20" category="paragraph">A continuación se muestra un ejemplo de un resumen de paquetes Cloud Volumes ONTAP en el monedero digital:</block>
-  <block id="e9132fa20985cf4b3d5004a6a371ecab" category="inline-image-macro">Una captura de pantalla que muestra un resumen de paquetes Cloud Volumes ONTAP con la capacidad total consumida, la capacidad total comprometida por adelantado (contratos BYOL y Marketplace) y la capacidad total de PAYGO o aprovisionada en cartera digital.</block>
-  <block id="68519fd40c76d6220d905ceda4e0956b" category="paragraph"><block ref="68519fd40c76d6220d905ceda4e0956b" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ea7c202c277e5ccf92e08be29b4a64e9" category="list-text">En el resumen, consulte la capacidad usada para cada uno de sus paquetes de licencias.</block>
   <block id="af61e314a8c2484dfcfef0afc2e5b8b9" category="list-text">_Consumido Capacity_ muestra la capacidad de los volúmenes de ese paquete. Para obtener más detalles sobre un paquete específico, coloque el ratón sobre la información sobre herramientas.</block>
   <block id="d30bc4bd5cee7ac23a1df54311d1f4b3" category="inline-link">Más información sobre la carga del paquete Essentials</block>
@@ -35,7 +26,6 @@
   <block id="b0980f4f35d961e95a685e0af8bda7e4" category="inline-image-macro">Captura de pantalla que muestra la capacidad consumida, la capacidad precomprometida y la capacidad de PAYGO, o la capacidad suministrada, para los productos esenciales y los paquetes profesionales.</block>
   <block id="71b669d4d19df676d975ef4911ded7af" category="paragraph"><block ref="71b669d4d19df676d975ef4911ded7af" category="inline-image-macro-rx" type="image"></block></block>
   <block id="b2dfe525c9a6bec7392826fba889fe07" category="section-title">Agregue licencias adquiridas a su cuenta</block>
-  <block id="e3562c1adf2604137baf3d2df3c68ecd" category="paragraph">Si no ve sus licencias adquiridas en la cartera digital, tendrá que añadir las licencias a BlueXP para que la capacidad esté disponible para Cloud Volumes ONTAP.</block>
   <block id="d59db7846bd10b6d60d21543df9faa9e" category="list-title">Lo que necesitará</block>
   <block id="160caa44a14b9421593597c51ec2a7e8" category="list-text">Debe proporcionar a BlueXP el número de serie de la licencia o el archivo de licencia.</block>
   <block id="04b14ae402c3ab4f87916eed6238424b" category="inline-link">Agregue su cuenta de la página de soporte de NetApp a BlueXP</block>
@@ -45,7 +35,6 @@
   <block id="204d2b4625a88f2700ea6c08a4f85014" category="paragraph">Si introdujo un número de serie, también necesita seleccionar la cuenta del sitio de soporte de NetApp autorizada para acceder al número de serie.</block>
   <block id="ea9a2b9ac34c9aab133f21aa5b67976e" category="list-text">Haga clic en *Agregar licencia*.</block>
   <block id="89046e28df67df094886562aac624243" category="section-title">Actualice una licencia basada en capacidad</block>
-  <block id="97a02c1884b510883e586382d384fb61" category="paragraph">Si ha adquirido capacidad adicional o ha ampliado la duración de su licencia, BlueXP actualiza automáticamente la licencia en el Digital Wallet. No hay nada que usted necesita hacer.</block>
   <block id="2144c137b123de98ab20d5bfa9677b33" category="paragraph">Sin embargo, si ha implementado BlueXP en una ubicación que no tiene acceso a Internet, deberá actualizar manualmente la licencia en BlueXP.</block>
   <block id="e02250fabfba9f2d7325403663479a43" category="paragraph">El archivo de licencia (o _files_ si tiene un par ha).</block>
   <block id="ecdf6ba3b837de5910abdabc360df552" category="list-text">En la ficha *Cloud Volumes ONTAP*, haga clic en el menú de acciones situado junto a la licencia y seleccione *Actualizar licencia*.</block>
@@ -56,15 +45,12 @@
   <block id="86f463a1f0f0879749d1274dc94305d9" category="paragraph-title">Nota importante</block>
   <block id="cfdb32f80009b1e5c5c0468dda9f013d" category="paragraph">Si tiene una oferta o contrato privados del mercado de su proveedor de cloud, el cambio a un método de cobro que no esté incluido en su contrato se traducirá en un cobro por licencia con licencia propia (si adquirió una de NetApp) o PAYGO.</block>
   <block id="3397777d22d2d5f746157ca31f0d8460" category="list-text">En la ficha *Cloud Volumes ONTAP*, haga clic en *Cambiar método de carga*.</block>
-  <block id="731d5463e4c6962d26d5b5d4b345930e" category="inline-image-macro">Una captura de pantalla de la página Cloud Volumes ONTAP en la cartera digital donde el botón Cambiar método de carga está justo encima de la tabla.</block>
-  <block id="e98a6fb0343d664e817b1f922b7a92f1" category="paragraph"><block ref="e98a6fb0343d664e817b1f922b7a92f1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="de4b4e176958ea7181911ce715504321" category="list-text">Seleccione un entorno de trabajo, elija el nuevo método de carga y, a continuación, confirme que el cambio del tipo de paquete afectará a los cargos por servicio.</block>
   <block id="b0d246ceb3cd290ace3abd509e982f73" category="inline-image-macro">Una captura de pantalla del cuadro de diálogo Cambiar método de carga en la que puede elegir un nuevo método de carga para un entorno de trabajo Cloud Volumes ONTAP.</block>
   <block id="6e594f7cd72195c88515a50fcfc2397e" category="paragraph"><block ref="6e594f7cd72195c88515a50fcfc2397e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="5331b4ea3bd1ef32d06c003e7e8f1c3d" category="list-text">Haga clic en *Cambiar método de carga*.</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Resultado</block>
   <block id="a3f83af733570f5c2a5b63c7087e6164" category="paragraph">BlueXP cambia el método de carga del sistema Cloud Volumes ONTAP.</block>
-  <block id="41687868b5d65bd96b455ce93a771517" category="paragraph">También es posible que observe que Digital Wallet actualiza la capacidad consumida para cada tipo de paquete para tener en cuenta el cambio que acaba de realizar.</block>
   <block id="8f79a5bc1b9725ce4036eb2d94c60de9" category="section-title">Quitar una licencia basada en capacidad</block>
   <block id="78a946dc090d511b993ffbe9803dff06" category="paragraph">Si una licencia basada en capacidad ha caducado y ya no está en uso, puede eliminarla en cualquier momento.</block>
   <block id="5ca97f84ee577fbacf355fc75d23921d" category="list-text">En la ficha *Cloud Volumes ONTAP*, haga clic en el menú de acción situado junto a la licencia y seleccione *Eliminar licencia*.</block>
@@ -269,20 +255,13 @@
   <block id="9d37072f5a1b76b16e647a14826ade70" category="paragraph"><block ref="9d37072f5a1b76b16e647a14826ade70" category="inline-image-macro-rx" type="image"></block></block>
   <block id="41e921305ae1b027e5d364af4a2a9df2" category="list-text">En la página _Update License_, cargue el archivo de licencia y haga clic en *Actualizar licencia*.</block>
   <block id="34674441113c2bf2e8f3d38a0e8276bb" category="paragraph">BlueXP actualiza la licencia.</block>
-  <block id="541be6e1dda8fc9678c974d148e15469" category="paragraph">Gestione sus suscripciones a Keystone Flex desde la cartera digital habilitando las suscripciones para su uso con Cloud Volumes ONTAP. También puede solicitar cambios en la capacidad comprometida y anular el enlace de las suscripciones.</block>
-  <block id="144db5f18aa0a48a9fe63c8b55bd0275" category="paragraph">A _Keystone Flex Subscription_ es un servicio de pago por crecimiento que ofrece NetApp.</block>
   <block id="4edb70089cdbc18de22fa9ead5189bc8" category="section-title">Autorizar tu cuenta</block>
-  <block id="5187c95ccaa9cce754eff51fdf83a80b" category="paragraph">Antes de poder utilizar y gestionar las suscripciones a Keystone Flex en BlueXP, debe ponerse en contacto con NetApp para autorizar su cuenta de usuario de BlueXP con sus suscripciones a Keystone Flex.</block>
   <block id="492847bcbc9ec0bd3075b612aa43e4a7" category="list-text">Selecciona *Keystone*.</block>
   <block id="daf4ae396784c74ec2cbf002eaaa25f4" category="list-text">Si ve la página *Bienvenido a NetApp Keystone*, envíe un correo electrónico a la dirección que aparece en la página.</block>
   <block id="16692c26ca4528e651bbb36d93c465c7" category="paragraph">Un representante de NetApp procesará su solicitud al autorizar a su cuenta de usuario a acceder a las suscripciones.</block>
-  <block id="ed53b278164ebd0a6b2a2a8f63581c09" category="list-text">Vuelva a la *Suscripción de Keystone Flex* para ver sus suscripciones.</block>
-  <block id="7aca1d09047c08c604b14d2916222137" category="inline-image-macro">Captura de pantalla que muestra una lista de suscripciones de Keystone Flex.</block>
-  <block id="9eb7d5bfc7310c477d520b7308dcb502" category="paragraph"><block ref="9eb7d5bfc7310c477d520b7308dcb502" category="inline-image-macro-rx" type="image"></block></block>
   <block id="58eaebf972358f1cf03d386a4ade1a0f" category="paragraph-title">El futuro</block>
   <block id="18dea2097f201a1ab3eb6d3305d42f0a" category="paragraph">Vincule las suscripciones que desee utilizar con Cloud Volumes ONTAP.</block>
   <block id="06f358c39bc3b4633cefd78beb67e671" category="section-title">Vincule una suscripción</block>
-  <block id="a105e3cd0d458207c5631417eee0c8a2" category="paragraph">Una vez que NetApp autorice su cuenta, tendrá que enlazar las suscripciones de Keystone Flex para utilizarlas con Cloud Volumes ONTAP. Esta acción permite a los usuarios seleccionar la suscripción como método de carga para los nuevos sistemas Cloud Volumes ONTAP.</block>
   <block id="b0afff19aa3343a6f86619d833dbd316" category="inline-image-macro">Un icono que tiene tres puntos uno al lado del otro</block>
   <block id="fc6ada65ff8f08c80e7d6167f68c89c2" category="list-text">Para ver la suscripción que desea vincular, haga clic en <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> Y seleccione *Link*.</block>
   <block id="a71102951bc0488f4ec3cb5e52602100" category="inline-image-macro">Captura de pantalla que muestra la opción de enlace para una suscripción.</block>
@@ -297,7 +276,6 @@
   <block id="dbae9df22f08344d5508b91cb73c6d15" category="list-text">Desplácese hacia abajo, introduzca cualquier información adicional para la solicitud y, a continuación, haga clic en *Enviar*.</block>
   <block id="8f140d9c4d508c36e3d4c57102f117eb" category="paragraph">Su solicitud crea una incidencia en el sistema de NetApp para su procesamiento.</block>
   <block id="0c0401d1e9169d6dd38462b1e0d04126" category="section-title">Desvincular una suscripción</block>
-  <block id="a991be6c178aa61e164f05082c15f594" category="paragraph">Si ya no desea utilizar una suscripción a Keystone Flex con nuevos sistemas de Cloud Volumes ONTAP, puede desvincular la suscripción. Tenga en cuenta que sólo puede desvincular una suscripción que no esté asociada a una suscripción a Cloud Volumes ONTAP existente.</block>
   <block id="a666a430e484ea214384aefaa30da852" category="list-text">Para obtener la suscripción que desea desvincular, haga clic en <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> Y seleccione *Desvincular*.</block>
   <block id="ae187bda8f85dfd75202915fcca6b90d" category="paragraph">La suscripción no está vinculada desde su cuenta de BlueXP y ya no está disponible para seleccionarla al crear un entorno de trabajo de Cloud Volumes ONTAP.</block>
   <block id="0ba30235105c7547a3e7658745e09be4" category="summary">Descubre las novedades de la cartera digital de BlueXP.</block>
@@ -400,24 +378,18 @@
   <block id="81f9d97336a30fb7be6f8d770fee25eb" category="list-text">Las licencias BYOL que se compraron a NetApp</block>
   <block id="17ac9e85cf5b6f7b77acf61fb7721242" category="list-text">Suscripciones de pago por horas de uso (PAYGO) desde el mercado de su proveedor de cloud</block>
   <block id="9426b05d2fc423b761e34f9d75b4066d" category="section-title">Gestionar licencias de PAYGO</block>
-  <block id="39489bc3468be0f9c30ed41b5ac89051" category="paragraph">La página del monedero digital le permite ver detalles sobre cada uno de sus sistemas de PAYGO Cloud Volumes ONTAP, incluidos el número de serie y el tipo de licencia de PAYGO.</block>
   <block id="5844b24c31c1897efda5443d984702f8" category="list-text">En la ficha *Cloud Volumes ONTAP*, seleccione *licencias basadas en nodos* en la lista desplegable.</block>
   <block id="87089bacab591352ad6ad6579e34d93e" category="list-text">Haga clic en *PAYGO*.</block>
   <block id="82be8e06ac169a3de0fce42cd01f5760" category="list-text">Consulte los detalles en la tabla acerca de cada una de sus licencias de PAYGO.</block>
-  <block id="76e10a0df08439afad301bff55b0ae58" category="inline-image-macro">Una captura de pantalla que muestra una tabla en la página de Digital Wallet con tres licencias de paygo. Cada fila muestra el nombre, el tipo de sistema, el número de serie, el paquete y un enlace para administrar la licencia.</block>
-  <block id="7488ecf8b7b85ed6fdf59249f884f829" category="paragraph"><block ref="7488ecf8b7b85ed6fdf59249f884f829" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a45c9786e45613660f519d740b30671a" category="list-text">Si es necesario, haga clic en *gestionar licencia de PAYGO* para cambiar la licencia de PAYGO o el tipo de instancia.</block>
   <block id="00b61e8d20d055a6505bd5bc88e18aeb" category="section-title">Gestione las licencias BYOL</block>
   <block id="33375e3f722897194d509130054856dd" category="paragraph">Gestione las licencias que ha adquirido directamente de NetApp añadiendo y quitando licencias de sistema y licencias de capacidad adicional.</block>
   <block id="4742f5b0c38f7c105542ecb15a214212" category="section-title">Añadir licencias sin asignar</block>
-  <block id="006b5d653459d707768b29d141d64d87" category="paragraph">Añada una licencia basada en nodo a la cartera digital para poder seleccionar la licencia cuando cree un nuevo sistema Cloud Volumes ONTAP. El monedero digital identifica estas licencias como _unassigned_.</block>
   <block id="9827486f8d28067db0a9918ee807f05e" category="list-text">Haga clic en *sin asignar*.</block>
   <block id="7fa863d81a4b4f5f46596207ce29dc50" category="list-text">Haga clic en *Agregar licencias sin asignar*.</block>
   <block id="851df848340ac5c43d036a7c8ab531e8" category="list-text">Escriba el número de serie de la licencia o cargue el archivo de licencia.</block>
   <block id="bec033f0535da0f58c9f0a7ccd96e793" category="paragraph">Si aún no tiene el archivo de licencia, consulte la sección siguiente.</block>
-  <block id="8c97ed5bc0c7a571b8993af8c6396051" category="paragraph">BlueXP añade la licencia a la cartera digital. La licencia se identificará como sin asignar hasta que se asocie con un nuevo sistema Cloud Volumes ONTAP. Después de esto, la licencia pasa a la pestaña *BYOL* del bolsillo digital.</block>
   <block id="df5b9d272738b4adaa43e7eb4949a0e5" category="section-title">Licencias basadas en nodos sin asignar de Exchange</block>
-  <block id="6527032302a12c0fbe0e9a93494d253b" category="paragraph">Si tiene una licencia basada en nodos sin asignar para Cloud Volumes ONTAP que no ha usado, puede cambiar la licencia convirtiéndola en una licencia de Cloud Backup, una licencia de Cloud Data Sense o una licencia de Cloud Tiering.</block>
   <block id="82330159ba1b86113008185841af38f9" category="paragraph">El intercambio de la licencia revoca la licencia de Cloud Volumes ONTAP y crea una licencia equivalente en dólares para el servicio:</block>
   <block id="9df8e0785445964e646ecf922e67b378" category="list-text">La licencia de un par de alta disponibilidad de Cloud Volumes ONTAP se convierte en una licencia de servicio de datos de 51 TIB</block>
   <block id="fc9771c21d913259d9cc1605db9e67fc" category="list-text">La licencia de un único nodo de Cloud Volumes ONTAP se convierte en una licencia de servicio de datos de 32 TIB</block>
@@ -544,7 +516,6 @@
   <block id="41f51117bfa13081af4c8a2db1a7ab58" category="list-text">Si amplias los detalles de un contrato, en la cartera digital de BlueXP se mostrará lo que hay disponible en tu plan actual: Las opciones y las unidades de contrato (capacidad o número de nodos).</block>
   <block id="25b3c421a2199fb638256d316af13699" category="list-text">La cartera digital de BlueXP identifica la fecha de finalización y si el contrato se renovará pronto, finalizará pronto o si ya ha finalizado.</block>
   <block id="c2e2efadf42aef45b4e8e6b176f32df0" category="paragraph">Puedes gestionar tus suscripciones desde la cartera digital de BlueXP si cambias el nombre de una suscripción y seleccionas las cuentas asociadas a la suscripción.</block>
-  <block id="5a91158751eaabe4d195cd633fa37db6" category="paragraph">Gestiona las licencias basadas en nodos en la cartera digital para garantizar que cada sistema de Cloud Volumes ONTAP tenga una licencia válida con la capacidad requerida.</block>
   <block id="71bff2737bdd059023a4784358e71a64" category="section-title">7 de mayo de 2023</block>
   <block id="060a6559f6065c5058aca6b22d897bce" category="section-title">Ofertas privadas de Google Cloud</block>
   <block id="bfe876190faa5e7a4cd6d5029395b658" category="paragraph">La cartera digital de BlueXP ahora identifica las suscripciones a Google Cloud Marketplace que están asociadas a una oferta privada y muestra la fecha de finalización y la duración de la suscripción. Esta mejora le permite verificar que ha aceptado con éxito la oferta privada y validar sus términos.</block>
@@ -562,4 +533,67 @@
   <block id="885ce97feb1a2410a348b3f3764dee9d" category="list-text">Gestione los servicios de suscripción de Keystone para su uso con Cloud Volumes ONTAP y solicite cambios en la capacidad comprometida</block>
   <block id="e29dbbc5408d2fe6da0ae9249031fad5" category="summary">Gestiona los servicios de suscripción de Keystone desde la cartera digital habilitando las suscripciones para que las puedas usar con Cloud Volumes ONTAP. También puede solicitar cambios en la capacidad comprometida y anular el enlace de las suscripciones.</block>
   <block id="8cd29d21eeca72789ed2e573a1032dbd" category="doc">Gestionar los servicios de suscripción de Keystone</block>
+  <block id="4112533811706ae9c45d956e68299f46" category="paragraph">Gestione sus licencias basadas en capacidad desde la cartera digital de BlueXP para garantizar que su cuenta de NetApp tenga suficiente capacidad para sus sistemas Cloud Volumes ONTAP.</block>
+  <block id="b37ea3f4c93245969c515634c741e9bf" category="paragraph">_BlueXP DIGITAL WALLET_ le permite gestionar las licencias para Cloud Volumes ONTAP desde una única ubicación. Puede añadir licencias nuevas y actualizar las licencias existentes.</block>
+  <block id="03fc5be3f1d32a032f3da42181c0e6ed" category="section-title">Cómo se añaden las licencias a la cartera digital de BlueXP</block>
+  <block id="472179c55c070df5bcb6f6fd708c412f" category="paragraph">Mientras tanto, BlueXP consulta automáticamente al servicio de licencias de NetApp para obtener detalles sobre las licencias asociadas a su cuenta de la página de soporte de NetApp. Si no se producen errores, BlueXP añade automáticamente las licencias a la cartera digital.</block>
+  <block id="c713a53d9b2831d188de3225e90ebdee" category="paragraph">Si BlueXP no puede añadir la licencia, deberá añadirla usted mismo manualmente a la cartera digital. Por ejemplo, si el conector está instalado en una ubicación que no tiene acceso a Internet, tendrá que agregar las licencias usted mismo. <block ref="2b377ff52574668221716136185f8476" category="inline-xref-macro-rx"></block>.</block>
+  <block id="70998cc9a7ddc4592ecb1e8fc59e0b63" category="paragraph">La cartera digital de BlueXP te muestra la capacidad total consumida en tu cuenta y la capacidad consumida por el paquete de licencia. Esto puede ayudarle a entender cómo se le está cargando y si necesita adquirir capacidad adicional.</block>
+  <block id="40e697bd547f9c2f3cb7042d204e6b9b" category="list-text">_Total PAYGO_ es la capacidad total aprovisionada mediante suscripciones a Cloud Marketplace. La carga mediante PAYGO se utiliza solo si la capacidad consumida es superior a la capacidad con licencia o si no hay una licencia BYOL disponible en la cartera digital de BlueXP.</block>
+  <block id="34a724e7d15854ada8926f52e44a3cdb" category="paragraph">A continuación tienes un ejemplo de un resumen de los paquetes de Cloud Volumes ONTAP en la cartera digital de BlueXP:</block>
+  <block id="ef932e9542b570b1aebe25543e12d641" category="inline-image-macro">Una captura de pantalla que muestra un resumen de paquetes de Cloud Volumes ONTAP que incluye la capacidad total consumida, la capacidad precomprometida total (contratos BYOL y Marketplace) y la capacidad total de pago por uso (o aprovisionada) en la cartera digital de BlueXP.</block>
+  <block id="7d6ebd560dc2c66d5d0db57db21f3c2e" category="paragraph"><block ref="7d6ebd560dc2c66d5d0db57db21f3c2e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="37532cd27e3c53471b1caed0ba1f90ed" category="section-title">Descargar informes de uso</block>
+  <block id="819d4e1e06bcd4bb3249b60d928ccacc" category="paragraph">Los administradores de cuentas pueden descargar cuatro informes de uso desde la cartera digital en BlueXP. Estos informes de uso proporcionan detalles sobre la capacidad de sus suscripciones y cómo se le cobra por los recursos de sus suscripciones a Cloud Volumes ONTAP. Los informes descargables capturan datos en un momento específico y se pueden compartir fácilmente con otros.</block>
+  <block id="c2b73e18a5b530a547ba48a8177d13c3" category="inline-image-macro">La captura de pantalla muestra la página de licencias basadas en capacidad de Cloud Volumes ONTAP de la cartera digital y resalta el botón de informe de uso.</block>
+  <block id="a1a4a48254cf8eb8962fbd995f5e7ea8" category="paragraph"><block ref="a1a4a48254cf8eb8962fbd995f5e7ea8" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d11dcbec58d47bd13de1dcccfbd640ff" category="paragraph">Los siguientes informes están disponibles para su descarga. Los valores de capacidad que se muestran son en TiB.</block>
+  <block id="ad73e4897304c80496a4f15e033cefa7" category="list-text">*Uso de alto nivel*: Este informe te muestra exactamente lo que hay en la tarjeta “Resumen de Paquetes Cloud Volumes ONTAP” en la billetera digital. Incluye la siguiente información:</block>
+  <block id="c596c9291f76a11af1aefc235c262de6" category="list-text">La capacidad total consumida</block>
+  <block id="8dd7541d6c4e83402d88448119068a02" category="list-text">Capacidad precomprometida total</block>
+  <block id="b01a146aed01aa8af61e034befc116ce" category="list-text">Capacidad total de BYOL</block>
+  <block id="109323142d354af9ccc7eb636b1dcbce" category="list-text">Capacidad total de contratos del mercado</block>
+  <block id="baf09c6c43fd26effd8f15e252649384" category="list-text">Capacidad total de PAYGO</block>
+  <block id="76101a2de96d735db21249323914bc6c" category="list-text">*Uso del paquete Cloud Volumes ONTAP*: Este informe le muestra exactamente lo que hay en las tarjetas de paquete en la cartera digital. Incluye la siguiente información para cada paquete excepto el paquete de I/O optimizado:</block>
+  <block id="c01bbdbe6721d80a74779e943243486b" category="list-text">*Uso de VM de almacenamiento*: Este informe muestra cómo se desglosa la capacidad cargada en los sistemas Cloud Volumes ONTAP y las máquinas virtuales de almacenamiento (SVM). Esta información no está disponible en ninguna pantalla de la cartera digital. Incluye la siguiente información:</block>
+  <block id="b16bfcaa9b0651f05b8e8894a2aebb31" category="list-text">ID de entorno de trabajo (aparece como UUID)</block>
+  <block id="c8e2277ecfb1427838c488c217f99466" category="list-text">Cloud</block>
+  <block id="4736cd35bf5b3fe63e1b1785fb2aa664" category="list-text">ID de cuenta de NetApp</block>
+  <block id="bbfa34e8af02138b821f784c8962669b" category="list-text">Configuración del entorno de trabajo</block>
+  <block id="203c4205822c007d08ecafe163b02ea2" category="list-text">Nombre de SVM</block>
+  <block id="b567847dd629376ac84ed4958fd61687" category="list-text">Capacidad aprovisionada</block>
+  <block id="a09b8df9fd0007770b0a8c10f9a17d81" category="list-text">Acumulación de capacidad cargada</block>
+  <block id="671095c17b0e9e0deda06cff2fa103e6" category="list-text">Plazo de facturación del mercado</block>
+  <block id="d38764d5edf26bd9b744840cd2ea3c17" category="list-text">Paquete o función de Cloud Volumes ONTAP</block>
+  <block id="a016fcdfd1d7159ffd537d78d4b68f74" category="list-text">Cargando el nombre de la suscripción de SaaS Marketplace</block>
+  <block id="fe6ac599d13d94a0ee0800482bec7e41" category="list-text">Cargando el ID de suscripción de SaaS Marketplace</block>
+  <block id="33e97335db88f16611400cab965f95af" category="list-text">*Uso de volúmenes*: Este informe muestra cómo la capacidad de carga se desglosa por volúmenes en un entorno de trabajo. Esta información no está disponible en ninguna pantalla de la cartera digital. Incluye la siguiente información:</block>
+  <block id="3edb9123c69629ec86469d96d3feb0aa" category="list-text">Nombre de SVN</block>
+  <block id="cccc95b62282240886ee975a3f122adb" category="list-text">ID del volumen</block>
+  <block id="fc18634852d4299cd5f8c7ad55ddefbe" category="list-text">Tipo de volumen</block>
+  <block id="3756f66a273f440893f16ee968ce3450" category="list-text">Capacidad aprovisionada del volumen</block>
+  <block id="8b3da2ed858ee5c956acde26c9ef7dd0" category="admonition">Los volúmenes FlexClone no se incluyen en este informe, ya que estos tipos de volúmenes no generan cargos.</block>
+  <block id="a4bad4f350632a2078a6d795984ee60f" category="list-text">En la pestaña *Cloud Volumes ONTAP*, mantenga seleccionada la opción *Licencias basadas en capacidad* y haga clic en *Informe de uso*.</block>
+  <block id="23e918e9f1c9f1bb5769dcc236489de2" category="paragraph">El informe de uso se descarga.</block>
+  <block id="05655bb3cbd3604d6c71a1db823ad94f" category="list-text">Abra el archivo descargado para acceder a los informes.</block>
+  <block id="665d621a7dca67edde62a7208c097db9" category="paragraph">Si no ves las licencias adquiridas en la cartera digital de BlueXP, deberás añadir las licencias a BlueXP para que la capacidad esté disponible para Cloud Volumes ONTAP.</block>
+  <block id="2a54172f7bcef3f83da68a9aefc194ea" category="paragraph">Si adquiriste capacidad adicional o ampliaste el plazo de la licencia, BlueXP actualizará automáticamente la licencia en la cartera digital. No hay nada que usted necesita hacer.</block>
+  <block id="325ef46eb3d6b63c4d60ef08cdd6176f" category="inline-image-macro">Una captura de pantalla de la página Cloud Volumes ONTAP en la cartera digital de BlueXP donde el botón Cambiar método de carga se encuentra sobre la tabla.</block>
+  <block id="bdc5814154b1b181ca8722ef08ed8a28" category="paragraph"><block ref="bdc5814154b1b181ca8722ef08ed8a28" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d592a4e1d68c1047f1f5e39639bee6bf" category="paragraph">También es posible que observe que la cartera digital de BlueXP actualiza la capacidad consumida de cada tipo de paquete para justificar el cambio que acaba de realizar.</block>
+  <block id="16c141e06e5f6ba408b4992a97c8b45f" category="paragraph">Gestiona tus suscripciones de Keystone desde la cartera digital de BlueXP habilitando las suscripciones para que las puedas usar con Cloud Volumes ONTAP. También puede solicitar cambios en la capacidad comprometida y anular el enlace de las suscripciones.</block>
+  <block id="a99a383ab90c9f21375613d8a38ea1c8" category="paragraph">A _Keystone Subscription_ es un servicio de almacenamiento de pago por crecimiento que ofrece NetApp.</block>
+  <block id="ef32689f1a32fe16e0893f8394486cba" category="paragraph">Para poder usar y gestionar las suscripciones de Keystone en BlueXP, debes ponerte en contacto con NetApp para autorizar tu cuenta de usuario de BlueXP mediante tus suscripciones de Keystone.</block>
+  <block id="5da6315cfe65abaef2d0e00c90898ddc" category="list-text">Vuelve a la *Keystone Subscription* para ver tus suscripciones.</block>
+  <block id="3d6aabe991edb10f282fd60995e725ca" category="inline-image-macro">Una captura de pantalla que muestra una lista de suscripciones de Keystone.</block>
+  <block id="6fd94fda3665b39867817d4700d184e8" category="paragraph"><block ref="6fd94fda3665b39867817d4700d184e8" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b10dd47ec29edab7ffa21c2337ac7f5f" category="paragraph">Una vez que NetApp autorice a su cuenta, deberá enlazar las suscripciones de Keystone para usarla con Cloud Volumes ONTAP. Esta acción permite a los usuarios seleccionar la suscripción como método de carga para los nuevos sistemas Cloud Volumes ONTAP.</block>
+  <block id="7ec05ce6a514daa78763d92fa399d1b0" category="paragraph">Si ya no desea usar una suscripción de Keystone con nuevos sistemas Cloud Volumes ONTAP, puede desvincular la suscripción. Tenga en cuenta que sólo puede desvincular una suscripción que no esté asociada a una suscripción a Cloud Volumes ONTAP existente.</block>
+  <block id="990d530a36683451e6ac666b1b224270" category="paragraph">Gestiona las licencias basadas en nodos en la cartera digital de BlueXP para garantizar que cada sistema Cloud Volumes ONTAP tenga una licencia válida con la capacidad necesaria.</block>
+  <block id="755544cd7e451192e8f70ab60b76986b" category="paragraph">La página de la cartera digital de BlueXP permite ver detalles de cada uno de sus sistemas PAYGO Cloud Volumes ONTAP, incluidos el número de serie y el tipo de licencia PAYGO.</block>
+  <block id="0ad53d9b2c46069812124453e75f768d" category="inline-image-macro">Una captura de pantalla que muestra una tabla en la página de la cartera digital de BlueXP con tres licencias paygo. Cada fila muestra el nombre, el tipo de sistema, el número de serie, el paquete y un enlace para administrar la licencia.</block>
+  <block id="53f70eaa2639e1c4c624cb3bcc1042c2" category="paragraph"><block ref="53f70eaa2639e1c4c624cb3bcc1042c2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b7553c7fbdeaddba3cf075caca1654ea" category="paragraph">Añade una licencia basada en nodos a la cartera digital de BlueXP para que puedas seleccionar la licencia cuando crees un nuevo sistema Cloud Volumes ONTAP. La cartera digital identifica estas licencias como _unassigned_.</block>
+  <block id="5fd0d116f88accf7d18b80d146d87953" category="paragraph">BlueXP añade la licencia a la cartera digital. La licencia se identificará como sin asignar hasta que se asocie con un nuevo sistema Cloud Volumes ONTAP. Después de que eso suceda, la licencia se traslada a la pestaña *BYOL* en la cartera digital.</block>
+  <block id="637413a6c4ca962adade95ae4bcc1109" category="paragraph">Si tienes una licencia basada en nodos sin asignar para Cloud Volumes ONTAP que no hayas utilizado, puedes intercambiar la licencia convirtiéndola en una licencia de backup y recuperación de BlueXP, una licencia de clasificación de BlueXP o una licencia de organización en niveles de BlueXP.</block>
 </blocks>

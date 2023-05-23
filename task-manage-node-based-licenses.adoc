@@ -14,7 +14,7 @@ summary: Gestione sus licencias basadas en nodos en la cartera digital para gara
 
 
 [role="lead"]
-Gestiona las licencias basadas en nodos en la cartera digital para garantizar que cada sistema de Cloud Volumes ONTAP tenga una licencia válida con la capacidad requerida.
+Gestiona las licencias basadas en nodos en la cartera digital de BlueXP para garantizar que cada sistema Cloud Volumes ONTAP tenga una licencia válida con la capacidad necesaria.
 
 _Licencias basadas en nodos_ son el modelo de licencias de la generación anterior (y no están disponibles para nuevos clientes):
 
@@ -22,7 +22,7 @@ _Licencias basadas en nodos_ son el modelo de licencias de la generación anteri
 * Suscripciones de pago por horas de uso (PAYGO) desde el mercado de su proveedor de cloud
 
 
-La _cartera digital_ le permite administrar licencias para Cloud Volumes ONTAP desde una única ubicación. Puede añadir licencias nuevas y actualizar las licencias existentes.
+_BlueXP DIGITAL WALLET_ le permite gestionar las licencias para Cloud Volumes ONTAP desde una única ubicación. Puede añadir licencias nuevas y actualizar las licencias existentes.
 
 https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensing.html["Más información acerca de las licencias de Cloud Volumes ONTAP"].
 
@@ -30,7 +30,7 @@ https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensin
 
 == Gestionar licencias de PAYGO
 
-La página del monedero digital le permite ver detalles sobre cada uno de sus sistemas de PAYGO Cloud Volumes ONTAP, incluidos el número de serie y el tipo de licencia de PAYGO.
+La página de la cartera digital de BlueXP permite ver detalles de cada uno de sus sistemas PAYGO Cloud Volumes ONTAP, incluidos el número de serie y el tipo de licencia PAYGO.
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
@@ -38,7 +38,7 @@ La página del monedero digital le permite ver detalles sobre cada uno de sus si
 . Haga clic en *PAYGO*.
 . Consulte los detalles en la tabla acerca de cada una de sus licencias de PAYGO.
 +
-image:screenshot_paygo_licenses.png["Una captura de pantalla que muestra una tabla en la página de Digital Wallet con tres licencias de paygo. Cada fila muestra el nombre, el tipo de sistema, el número de serie, el paquete y un enlace para administrar la licencia."]
+image:screenshot_paygo_licenses.png["Una captura de pantalla que muestra una tabla en la página de la cartera digital de BlueXP con tres licencias paygo. Cada fila muestra el nombre, el tipo de sistema, el número de serie, el paquete y un enlace para administrar la licencia."]
 
 . Si es necesario, haga clic en *gestionar licencia de PAYGO* para cambiar la licencia de PAYGO o el tipo de instancia.
 
@@ -53,7 +53,7 @@ Gestione las licencias que ha adquirido directamente de NetApp añadiendo y quit
 
 === Añadir licencias sin asignar
 
-Añada una licencia basada en nodo a la cartera digital para poder seleccionar la licencia cuando cree un nuevo sistema Cloud Volumes ONTAP. El monedero digital identifica estas licencias como _unassigned_.
+Añade una licencia basada en nodos a la cartera digital de BlueXP para que puedas seleccionar la licencia cuando crees un nuevo sistema Cloud Volumes ONTAP. La cartera digital identifica estas licencias como _unassigned_.
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
@@ -68,13 +68,13 @@ Si aún no tiene el archivo de licencia, consulte la sección siguiente.
 
 
 .Resultado
-BlueXP añade la licencia a la cartera digital. La licencia se identificará como sin asignar hasta que se asocie con un nuevo sistema Cloud Volumes ONTAP. Después de esto, la licencia pasa a la pestaña *BYOL* del bolsillo digital.
+BlueXP añade la licencia a la cartera digital. La licencia se identificará como sin asignar hasta que se asocie con un nuevo sistema Cloud Volumes ONTAP. Después de que eso suceda, la licencia se traslada a la pestaña *BYOL* en la cartera digital.
 
 
 
 === Licencias basadas en nodos sin asignar de Exchange
 
-Si tiene una licencia basada en nodos sin asignar para Cloud Volumes ONTAP que no ha usado, puede cambiar la licencia convirtiéndola en una licencia de Cloud Backup, una licencia de Cloud Data Sense o una licencia de Cloud Tiering.
+Si tienes una licencia basada en nodos sin asignar para Cloud Volumes ONTAP que no hayas utilizado, puedes intercambiar la licencia convirtiéndola en una licencia de backup y recuperación de BlueXP, una licencia de clasificación de BlueXP o una licencia de organización en niveles de BlueXP.
 
 El intercambio de la licencia revoca la licencia de Cloud Volumes ONTAP y crea una licencia equivalente en dólares para el servicio:
 
