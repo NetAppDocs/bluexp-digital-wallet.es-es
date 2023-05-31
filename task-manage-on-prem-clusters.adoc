@@ -19,8 +19,8 @@ La cartera digital de BlueXP te permite ver los detalles del contrato de cada un
 .Antes de empezar
 La cartera digital de BlueXP muestra detalles sobre los clústeres de ONTAP on-premises que has detectado como entorno de trabajo o que están asociados a una cuenta del sitio de soporte de NetApp que has añadido a BlueXP.
 
-* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Descubra cómo detectar un clúster de ONTAP en las instalaciones"^]
-* https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-adding-nss-accounts.html["Descubre cómo gestionar las credenciales de NSS asociadas con tu cuenta de BlueXP"^]
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Descubra cómo detectar un clúster de ONTAP en las instalaciones"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Descubre cómo gestionar las credenciales de NSS asociadas con tu cuenta de BlueXP"^]
 
 
 
@@ -54,7 +54,7 @@ Si no has detectado un clúster ONTAP on-premises como un entorno de trabajo, pu
 .Antes de empezar
 Debe comprender sus opciones de detección y gestión (detección mediante un conector o detección directa sin un conector), así como los requisitos de detección.
 
-https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Obtenga información sobre las opciones de detección y los requisitos"^].
+https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Obtenga información sobre las opciones de detección y los requisitos"^].
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
@@ -85,6 +85,6 @@ image:screenshot_onprem_cluster.png["Una captura de pantalla de un clúster de O
 
 Ahora puede empezar a gestionar el clúster.
 
-* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-manage-ontap-connector.html["Aprenda a gestionar clústeres detectados con un conector"^]
-* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-manage-ontap-direct.html["Conozca cómo se detectan directamente los clústeres"^]
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-manage-ontap-connector.html["Aprenda a gestionar clústeres detectados con un conector"^]
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-manage-ontap-direct.html["Conozca cómo se detectan directamente los clústeres"^]
 
