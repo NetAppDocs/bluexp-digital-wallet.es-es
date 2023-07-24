@@ -38,8 +38,8 @@ Las fechas de vencimiento del contrato de software y del contrato de hardware ap
 +
 Si se le solicita que introduzca primero sus credenciales de cuenta del sitio de soporte de NetApp (NSS), seleccione *Añadir cuenta NSS*. Después de añadir la cuenta, se muestran los clústeres asociados con esa cuenta de NSS.
 
-. Si el contrato está cerca de la fecha de vencimiento o ha expirado, puedes hacer clic en el icono de chat que hay en la parte inferior derecha de la consola BlueXP para solicitar una extensión del contrato.
-. Para ver más detalles, haga clic en image:button_down_caret.png["Un icono de signo de intercalación descendente"] para expandir la información del clúster.
+. Si el contrato está cerca de la fecha de vencimiento o ha expirado, puedes seleccionar el icono de chat en la parte inferior derecha de la consola BlueXP para solicitar una extensión del contrato.
+. Para ver más detalles, seleccione image:button_down_caret.png["Un icono de signo de intercalación descendente"] para expandir la información del clúster.
 +
 image:screenshot_digital_wallet_license_info.png["Una captura de pantalla de cómo ampliar los detalles del clúster para poder ver la información de la licencia del clúster."]
 
@@ -68,8 +68,8 @@ Los clústeres de ONTAP se muestran con el estado de si se han detectado en Blue
 +
 Si se le solicita que introduzca primero sus credenciales de cuenta del sitio de soporte de NetApp (NSS), seleccione *Añadir cuenta NSS*. Después de añadir la cuenta, se muestran los clústeres asociados con esa cuenta de NSS.
 
-. Haz clic en *Discover* para el clúster que quieres gestionar a través de BlueXP.
-. En la página _Discover ONTAP Cluster_, introduzca la contraseña de la cuenta de usuario administrador y haga clic en *Discover*.
+. Selecciona *Discover* para el clúster que quieras gestionar a través de BlueXP.
+. En la página _Discover ONTAP Cluster_, introduzca la contraseña de la cuenta de usuario administrador y seleccione *Discover*.
 +
 image:screenshot_discover_ontap_wallet.png["Una captura de pantalla que muestra un ejemplo de la página Detalles del clúster de ONTAP: La dirección IP de administración del clúster, el nombre de usuario y la contraseña."]
 
