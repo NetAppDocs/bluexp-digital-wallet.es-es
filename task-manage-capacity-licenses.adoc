@@ -107,7 +107,7 @@ Los siguientes informes están disponibles para su descarga. Los valores de capa
 
 * *Uso de VM de almacenamiento*: Este informe muestra cómo se desglosa la capacidad cargada en los sistemas Cloud Volumes ONTAP y las máquinas virtuales de almacenamiento (SVM). Esta información no está disponible en ninguna pantalla de la cartera digital. Incluye la siguiente información:
 +
-** ID de entorno de trabajo (aparece como UUID)
+** ID y nombre del entorno de trabajo (aparece como UUID)
 ** Cloud
 ** ID de cuenta de NetApp
 ** Configuración del entorno de trabajo
@@ -118,11 +118,12 @@ Los siguientes informes están disponibles para su descarga. Los valores de capa
 ** Paquete o función de Cloud Volumes ONTAP
 ** Cargando el nombre de la suscripción de SaaS Marketplace
 ** Cargando el ID de suscripción de SaaS Marketplace
+** Tipo de carga de trabajo
 
 
 * *Uso de volúmenes*: Este informe muestra cómo la capacidad de carga se desglosa por volúmenes en un entorno de trabajo. Esta información no está disponible en ninguna pantalla de la cartera digital. Incluye la siguiente información:
 +
-** ID de entorno de trabajo (aparece como UUID)
+** ID y nombre del entorno de trabajo (aparece como UUID)
 ** Nombre de SVN
 ** ID del volumen
 ** Tipo de volumen
