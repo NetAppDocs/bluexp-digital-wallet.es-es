@@ -34,7 +34,7 @@ Hay disponibles varias mejoras en los informes de uso de Cloud Volumes ONTAP:
 * El tipo de volumen _secondary_ ahora está etiquetado como _Secondary (DP)_.
 
 
-Para obtener más información sobre los informes de uso, consulte https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-manage-capacity-licenses.html#download-usage-reports["Descargar informes de uso"^]
+Para obtener más información sobre los informes de uso, consulte https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html#download-usage-reports["Descargar informes de uso"].
 
 
 
@@ -58,7 +58,7 @@ Ahora puede averiguar por qué se le cobra cuando está suscrito a licencias bas
 * Uso de volúmenes
 
 
-Para obtener más información, consulte link:https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html["Gestione licencias basadas en capacidad"].
+Para obtener más información sobre los informes de uso, consulte https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html#download-usage-reports["Descargar informes de uso"].
 
 
 
