@@ -13,7 +13,7 @@ summary: Gestiona los servicios de suscripción de Keystone desde la cartera dig
 :imagesdir: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/media/
 
 
-[role="lead"]
+[role="lead lead"]
 Gestiona tus suscripciones de Keystone desde la cartera digital de BlueXP habilitando las suscripciones para que las puedas usar con Cloud Volumes ONTAP. También puede solicitar cambios en la capacidad comprometida y anular el enlace de las suscripciones.
 
 A _Keystone Subscription_ es un servicio de almacenamiento de pago por crecimiento que ofrece NetApp.

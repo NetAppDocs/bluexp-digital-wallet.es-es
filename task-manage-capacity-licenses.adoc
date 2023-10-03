@@ -13,7 +13,7 @@ summary: Gestione sus licencias basadas en capacidad desde Digital Wallet para g
 :imagesdir: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/media/
 
 
-[role="lead"]
+[role="lead lead"]
 Gestione sus licencias basadas en capacidad desde la cartera digital de BlueXP para garantizar que su cuenta de NetApp tenga suficiente capacidad para sus sistemas Cloud Volumes ONTAP.
 
 _Licencias basadas en la capacidad_ le permiten pagar por Cloud Volumes ONTAP por TIB de capacidad.
