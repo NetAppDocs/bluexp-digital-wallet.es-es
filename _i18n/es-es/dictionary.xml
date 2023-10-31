@@ -193,8 +193,6 @@
   <block id="492847bcbc9ec0bd3075b612aa43e4a7" category="list-text">Selecciona *Keystone*.</block>
   <block id="daf4ae396784c74ec2cbf002eaaa25f4" category="list-text">Si ve la página *Bienvenido a NetApp Keystone*, envíe un correo electrónico a la dirección que aparece en la página.</block>
   <block id="16692c26ca4528e651bbb36d93c465c7" category="paragraph">Un representante de NetApp procesará su solicitud al autorizar a su cuenta de usuario a acceder a las suscripciones.</block>
-  <block id="58eaebf972358f1cf03d386a4ade1a0f" category="paragraph-title">El futuro</block>
-  <block id="18dea2097f201a1ab3eb6d3305d42f0a" category="paragraph">Vincule las suscripciones que desee utilizar con Cloud Volumes ONTAP.</block>
   <block id="06f358c39bc3b4633cefd78beb67e671" category="section-title">Vincule una suscripción</block>
   <block id="b0afff19aa3343a6f86619d833dbd316" category="inline-image-macro">Un icono que tiene tres puntos uno al lado del otro</block>
   <block id="fc6ada65ff8f08c80e7d6167f68c89c2" category="list-text">Para ver la suscripción que desea vincular, haga clic en <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> Y seleccione *Link*.</block>
@@ -202,7 +200,6 @@
   <block id="53dd6d03631eca7d8e89d0d7d8cdeb77" category="paragraph"><block ref="53dd6d03631eca7d8e89d0d7d8cdeb77" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c01bba3f5cf220440d62298c4287d655" category="paragraph">La suscripción está ahora vinculada a su cuenta de BlueXP y disponible para seleccionar al crear un entorno de trabajo de Cloud Volumes ONTAP.</block>
   <block id="1b02ed65c5ea56c85fffa6b88378d762" category="section-title">Solicitud de más o menos capacidad comprometida</block>
-  <block id="51865ab5b1a727fd7b6804d74e80a1cd" category="paragraph">Si necesita ajustar la capacidad comprometida para una suscripción, puede enviar una solicitud directamente desde la interfaz de BlueXP.</block>
   <block id="a2748c51966db7db689a8801f6ae4150" category="list-text">En la suscripción que desea ajustar la capacidad, haga clic en <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> Y selecciona *Ver detalle y editar*.</block>
   <block id="56ecf988dec174f4d23028e78eeed82c" category="list-text">Introduzca la capacidad comprometida solicitada para una o más suscripciones.</block>
   <block id="b21f9c14aa5cab57ac732dac504b7b63" category="inline-image-macro">Captura de pantalla que muestra la capacidad de solicitar un cambio en la capacidad comprometida para una suscripción.</block>
@@ -441,8 +438,6 @@
   <block id="314c4a4eeddb6d1cd1f813b95714f7a2" category="list-text">Si su suscripción a Google Cloud está asociada a una oferta privada y esa oferta privada se modificó después de su creación y aceptación, el término muestra N/A. En este escenario, la respuesta de API que recibimos de Google Cloud Marketplace no incluye información relacionada con los términos.</block>
   <block id="3b3f3f7253f4c57a7eb145d69d119e28" category="list-text">Si tienes una oferta privada de Google Cloud, las opciones de contrato no están disponibles.</block>
   <block id="885ce97feb1a2410a348b3f3764dee9d" category="list-text">Gestione los servicios de suscripción de Keystone para su uso con Cloud Volumes ONTAP y solicite cambios en la capacidad comprometida</block>
-  <block id="e29dbbc5408d2fe6da0ae9249031fad5" category="summary">Gestiona los servicios de suscripción de Keystone desde la cartera digital habilitando las suscripciones para que las puedas usar con Cloud Volumes ONTAP. También puede solicitar cambios en la capacidad comprometida y anular el enlace de las suscripciones.</block>
-  <block id="8cd29d21eeca72789ed2e573a1032dbd" category="doc">Gestionar los servicios de suscripción de Keystone</block>
   <block id="4112533811706ae9c45d956e68299f46" category="paragraph">Gestione sus licencias basadas en capacidad desde la cartera digital de BlueXP para garantizar que su cuenta de NetApp tenga suficiente capacidad para sus sistemas Cloud Volumes ONTAP.</block>
   <block id="b37ea3f4c93245969c515634c741e9bf" category="paragraph">_BlueXP DIGITAL WALLET_ le permite gestionar las licencias para Cloud Volumes ONTAP desde una única ubicación. Puede añadir licencias nuevas y actualizar las licencias existentes.</block>
   <block id="03fc5be3f1d32a032f3da42181c0e6ed" category="section-title">Cómo se añaden las licencias a la cartera digital de BlueXP</block>
@@ -490,14 +485,9 @@
   <block id="325ef46eb3d6b63c4d60ef08cdd6176f" category="inline-image-macro">Una captura de pantalla de la página Cloud Volumes ONTAP en la cartera digital de BlueXP donde el botón Cambiar método de carga se encuentra sobre la tabla.</block>
   <block id="bdc5814154b1b181ca8722ef08ed8a28" category="paragraph"><block ref="bdc5814154b1b181ca8722ef08ed8a28" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d592a4e1d68c1047f1f5e39639bee6bf" category="paragraph">También es posible que observe que la cartera digital de BlueXP actualiza la capacidad consumida de cada tipo de paquete para justificar el cambio que acaba de realizar.</block>
-  <block id="16c141e06e5f6ba408b4992a97c8b45f" category="paragraph">Gestiona tus suscripciones de Keystone desde la cartera digital de BlueXP habilitando las suscripciones para que las puedas usar con Cloud Volumes ONTAP. También puede solicitar cambios en la capacidad comprometida y anular el enlace de las suscripciones.</block>
-  <block id="a99a383ab90c9f21375613d8a38ea1c8" category="paragraph">A _Keystone Subscription_ es un servicio de almacenamiento de pago por crecimiento que ofrece NetApp.</block>
-  <block id="ef32689f1a32fe16e0893f8394486cba" category="paragraph">Para poder usar y gestionar las suscripciones de Keystone en BlueXP, debes ponerte en contacto con NetApp para autorizar tu cuenta de usuario de BlueXP mediante tus suscripciones de Keystone.</block>
   <block id="5da6315cfe65abaef2d0e00c90898ddc" category="list-text">Vuelve a la *Keystone Subscription* para ver tus suscripciones.</block>
   <block id="3d6aabe991edb10f282fd60995e725ca" category="inline-image-macro">Una captura de pantalla que muestra una lista de suscripciones de Keystone.</block>
   <block id="6fd94fda3665b39867817d4700d184e8" category="paragraph"><block ref="6fd94fda3665b39867817d4700d184e8" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="b10dd47ec29edab7ffa21c2337ac7f5f" category="paragraph">Una vez que NetApp autorice a su cuenta, deberá enlazar las suscripciones de Keystone para usarla con Cloud Volumes ONTAP. Esta acción permite a los usuarios seleccionar la suscripción como método de carga para los nuevos sistemas Cloud Volumes ONTAP.</block>
-  <block id="7ec05ce6a514daa78763d92fa399d1b0" category="paragraph">Si ya no desea usar una suscripción de Keystone con nuevos sistemas Cloud Volumes ONTAP, puede desvincular la suscripción. Tenga en cuenta que sólo puede desvincular una suscripción que no esté asociada a una suscripción a Cloud Volumes ONTAP existente.</block>
   <block id="990d530a36683451e6ac666b1b224270" category="paragraph">Gestiona las licencias basadas en nodos en la cartera digital de BlueXP para garantizar que cada sistema Cloud Volumes ONTAP tenga una licencia válida con la capacidad necesaria.</block>
   <block id="755544cd7e451192e8f70ab60b76986b" category="paragraph">La página de la cartera digital de BlueXP permite ver detalles de cada uno de sus sistemas PAYGO Cloud Volumes ONTAP, incluidos el número de serie y el tipo de licencia PAYGO.</block>
   <block id="0ad53d9b2c46069812124453e75f768d" category="inline-image-macro">Una captura de pantalla que muestra una tabla en la página de la cartera digital de BlueXP con tres licencias paygo. Cada fila muestra el nombre, el tipo de sistema, el número de serie, el paquete y un enlace para administrar la licencia.</block>
@@ -614,4 +604,22 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Obtenga soporte para un servicio de archivos de proveedores de cloud</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Para obtener soporte técnico relacionado con un servicio de archivos del proveedor de cloud, su infraestructura o cualquier solución que utilice el servicio, consulte «Obtener ayuda» en la documentación de BlueXP para ese producto.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Para recibir soporte técnico específico sobre BlueXP y sus soluciones y servicios de almacenamiento, use las opciones de soporte descritas a continuación.</block>
+  <block id="3982145b9641373c27bb8d4756883699" category="inline-link">Descubra cómo suscribirse a BlueXP (modo estándar)</block>
+  <block id="7f5bf22f42b3df7661bb90a8ee910f75" category="list-text"><block ref="7f5bf22f42b3df7661bb90a8ee910f75" category="inline-link-rx"></block></block>
+  <block id="7d546f7fc3c445881a171d5c7ee674c2" category="inline-link">Descubra cómo suscribirse a BlueXP (modo restringido)</block>
+  <block id="69dd33041899bf8cb4fdb69e6f455142" category="list-text"><block ref="69dd33041899bf8cb4fdb69e6f455142" category="inline-link-rx"></block></block>
+  <block id="c27b8e6a4f797d237583ca6d38a92cd6" category="summary">Gestiona tus suscripciones de Keystone desde la cartera digital de BlueXP habilitando las suscripciones para su uso con Cloud Volumes ONTAP y solicitando cambios en la capacidad comprometida para los niveles de servicio de tu suscripción. Solicitar capacidad adicional para un nivel de servicio proporciona más almacenamiento para clústeres de ONTAP en las instalaciones o para sistemas Cloud Volumes ONTAP.</block>
+  <block id="52ba144dbaac8239e9b6d8e287db93dc" category="doc">Gestiona las suscripciones de Keystone</block>
+  <block id="a3b1d6e06d4fd8ccc20c61ce51e45853" category="paragraph">NetApp Keystone es un servicio basado en suscripciones de pago por crecimiento flexible que ofrece una experiencia de cloud híbrido para clientes que prefieren los gastos operativos a los gastos de capital o el arrendamiento.</block>
+  <block id="8635fd9dae0faf14591abf5c00ba4c36" category="inline-link">Más información acerca de Keystone</block>
+  <block id="d9e1f569a60d13d4540b611846d761f5" category="paragraph"><block ref="d9e1f569a60d13d4540b611846d761f5" category="inline-link-rx"></block></block>
+  <block id="79554ac40a8f3a03c9aaedab34165bd3" category="paragraph">Para poder usar y gestionar las suscripciones de Keystone en BlueXP, debes ponerte en contacto con NetApp para autorizar tu cuenta de usuario de BlueXP mediante tus suscripciones de Keystone.</block>
+  <block id="8afaab6946e4a914b70539d7502e26ac" category="paragraph">Una vez que NetApp autorice a su cuenta, puedes enlazar las suscripciones de Keystone para que las use con Cloud Volumes ONTAP. Esta acción permite a los usuarios seleccionar la suscripción como método de carga para los nuevos sistemas Cloud Volumes ONTAP.</block>
+  <block id="6659aa983422f26fe41e5bcc67fa8466" category="paragraph">Si quieres cambiar la capacidad comprometida para los niveles de servicio de tu suscripción, puedes enviar una solicitud a NetApp directamente desde BlueXP. Solicitar capacidad adicional para un nivel de servicio proporciona más almacenamiento para clústeres on-premises o para sistemas Cloud Volumes ONTAP.</block>
+  <block id="ec6e0d1bd46f010ced65478c609b1636" category="section-title">Supervisar el uso</block>
+  <block id="4bb37917188b518967d0e67a2b819327" category="paragraph">La consola del asesor digital de BlueXP permite supervisar el uso de la suscripción a Keystone y generar informes.</block>
+  <block id="20ea4c62f4c9e4254314fe7fbbef0319" category="inline-link">Obtenga más información sobre la supervisión del uso de suscripciones</block>
+  <block id="d7105dd212dc96a8b292b6b48f84916f" category="paragraph"><block ref="d7105dd212dc96a8b292b6b48f84916f" category="inline-link-rx"></block></block>
+  <block id="28ca5cda5cdef790c457097830d81ca5" category="paragraph">Si ya no quieres usar una suscripción de Keystone con BlueXP, puedes desvincular la suscripción. Tenga en cuenta que sólo puede desvincular una suscripción que no esté asociada a una suscripción a Cloud Volumes ONTAP existente.</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novedades</block>
 </blocks>

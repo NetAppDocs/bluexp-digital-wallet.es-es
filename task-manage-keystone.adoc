@@ -1,26 +1,24 @@
 ---
 sidebar: sidebar 
 permalink: task-manage-keystone.html 
-keywords: license, licensing, install, keystone, request capacity, link subscription, add keystone subscription, keystone subscription 
-summary: Gestiona los servicios de suscripción de Keystone desde la cartera digital habilitando las suscripciones para que las puedas usar con Cloud Volumes ONTAP. También puede solicitar cambios en la capacidad comprometida y anular el enlace de las suscripciones. 
+keywords: license, licensing, install, keystone, request capacity, link subscription, add keystone subscription, keystone subscription, digital wallet, keystone flex 
+summary: Gestiona tus suscripciones de Keystone desde la cartera digital de BlueXP habilitando las suscripciones para su uso con Cloud Volumes ONTAP y solicitando cambios en la capacidad comprometida para los niveles de servicio de tu suscripción. Solicitar capacidad adicional para un nivel de servicio proporciona más almacenamiento para clústeres de ONTAP en las instalaciones o para sistemas Cloud Volumes ONTAP. 
 ---
-= Gestionar los servicios de suscripción de Keystone
+= Gestiona las suscripciones de Keystone
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
-:imagesdir: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/media/
+:imagesdir: ./media/
 
 
-[role="lead lead"]
-Gestiona tus suscripciones de Keystone desde la cartera digital de BlueXP habilitando las suscripciones para que las puedas usar con Cloud Volumes ONTAP. También puede solicitar cambios en la capacidad comprometida y anular el enlace de las suscripciones.
+[role="lead"]
+Gestiona tus suscripciones de Keystone desde la cartera digital de BlueXP habilitando las suscripciones para su uso con Cloud Volumes ONTAP y solicitando cambios en la capacidad comprometida para los niveles de servicio de tu suscripción. Solicitar capacidad adicional para un nivel de servicio proporciona más almacenamiento para clústeres de ONTAP en las instalaciones o para sistemas Cloud Volumes ONTAP.
 
-A _Keystone Subscription_ es un servicio de almacenamiento de pago por crecimiento que ofrece NetApp.
+NetApp Keystone es un servicio basado en suscripciones de pago por crecimiento flexible que ofrece una experiencia de cloud híbrido para clientes que prefieren los gastos operativos a los gastos de capital o el arrendamiento.
 
-_BlueXP DIGITAL WALLET_ le permite gestionar las licencias para Cloud Volumes ONTAP desde una única ubicación. Puede añadir licencias nuevas y actualizar las licencias existentes.
-
-https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["Más información acerca de las licencias de Cloud Volumes ONTAP"].
+https://www.netapp.com/services/keystone/["Más información acerca de Keystone"^]
 
 
 
@@ -41,14 +39,11 @@ image:screenshot-keystone-overview.png["Una captura de pantalla que muestra una 
 
 
 
-.El futuro
-Vincule las suscripciones que desee utilizar con Cloud Volumes ONTAP.
-
 
 
 == Vincule una suscripción
 
-Una vez que NetApp autorice a su cuenta, deberá enlazar las suscripciones de Keystone para usarla con Cloud Volumes ONTAP. Esta acción permite a los usuarios seleccionar la suscripción como método de carga para los nuevos sistemas Cloud Volumes ONTAP.
+Una vez que NetApp autorice a su cuenta, puedes enlazar las suscripciones de Keystone para que las use con Cloud Volumes ONTAP. Esta acción permite a los usuarios seleccionar la suscripción como método de carga para los nuevos sistemas Cloud Volumes ONTAP.
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
@@ -66,7 +61,7 @@ La suscripción está ahora vinculada a su cuenta de BlueXP y disponible para se
 
 == Solicitud de más o menos capacidad comprometida
 
-Si necesita ajustar la capacidad comprometida para una suscripción, puede enviar una solicitud directamente desde la interfaz de BlueXP.
+Si quieres cambiar la capacidad comprometida para los niveles de servicio de tu suscripción, puedes enviar una solicitud a NetApp directamente desde BlueXP. Solicitar capacidad adicional para un nivel de servicio proporciona más almacenamiento para clústeres on-premises o para sistemas Cloud Volumes ONTAP.
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
@@ -84,9 +79,17 @@ Su solicitud crea una incidencia en el sistema de NetApp para su procesamiento.
 
 
 
+== Supervisar el uso
+
+La consola del asesor digital de BlueXP permite supervisar el uso de la suscripción a Keystone y generar informes.
+
+https://docs.netapp.com/us-en/keystone-staas/integrations/aiq-keystone-details.html["Obtenga más información sobre la supervisión del uso de suscripciones"^]
+
+
+
 == Desvincular una suscripción
 
-Si ya no desea usar una suscripción de Keystone con nuevos sistemas Cloud Volumes ONTAP, puede desvincular la suscripción. Tenga en cuenta que sólo puede desvincular una suscripción que no esté asociada a una suscripción a Cloud Volumes ONTAP existente.
+Si ya no quieres usar una suscripción de Keystone con BlueXP, puedes desvincular la suscripción. Tenga en cuenta que sólo puede desvincular una suscripción que no esté asociada a una suscripción a Cloud Volumes ONTAP existente.
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.

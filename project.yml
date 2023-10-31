@@ -13,7 +13,9 @@ sidebar:
   - title: Documentos de la cartera digital de BlueXP
     url: "/index.html"
   - title: Notas de la versión
-    url: "/whats-new.html"
+    entries:
+    - title: Novedades
+      url: "/whats-new.html"
   - title: Manos a la obra
     entries:
     - title: Más información sobre la cartera digital de BlueXP
@@ -30,7 +32,7 @@ sidebar:
       url: "/task-manage-data-services-licenses.html"
     - title: Gestionar suscripciones y contratos de PAYGO
       url: "/task-manage-subscriptions.html"
-    - title: Gestionar los servicios de suscripción de Keystone
+    - title: Gestiona las suscripciones de Keystone
       url: "/task-manage-keystone.html"
     - title: Gestiona las licencias para clústeres de ONTAP en las instalaciones
       url: "/task-manage-on-prem-clusters.html"

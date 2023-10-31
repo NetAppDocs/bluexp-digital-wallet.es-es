@@ -16,6 +16,10 @@ summary: Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se
 [role="lead"]
 Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se le redirigirá al sitio web de BlueXP donde necesita guardar su suscripción y asociarla a cuentas específicas. Una vez que se haya suscrito, cada suscripción se puede gestionar desde la cartera digital de BlueXP.
 
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-standard-mode.html["Descubra cómo suscribirse a BlueXP (modo estándar)"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-restricted-mode.html["Descubra cómo suscribirse a BlueXP (modo restringido)"^]
+
+
 
 
 == Ver sus suscripciones
