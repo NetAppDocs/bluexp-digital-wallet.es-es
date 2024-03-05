@@ -188,10 +188,17 @@ El archivo de licencia (o _files_ si tiene un par ha).
 
 == Cambiar los métodos de carga
 
-Puede cambiar el método de carga para un sistema Cloud Volumes ONTAP que utilice licencias basadas en capacidad. Por ejemplo, si implementó un sistema Cloud Volumes ONTAP con el paquete Essentials, puede cambiarlo por el paquete profesional si se necesita cambiar su empresa.
+La licencia basada en la capacidad está disponible en forma de un _package_. Al crear un entorno de trabajo de Cloud Volumes ONTAP, puede elegir entre varios paquetes de licencias en función de sus necesidades empresariales. Si sus necesidades cambian después de crear el entorno de trabajo, puede cambiar el paquete en cualquier momento. Por ejemplo, puede cambiar del paquete Essentials al paquete Professional.
 
-.Nota importante
-Si tiene una oferta o contrato privados del mercado de su proveedor de cloud, el cambio a un método de cobro que no esté incluido en su contrato se traducirá en un cobro por licencia con licencia propia (si adquirió una de NetApp) o PAYGO.
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["Obtenga más información sobre los paquetes de licencias basados en la capacidad"].
+
+.Acerca de esta tarea
+* Cambiar el método de pago no afectará a si se le cobra a través de una licencia adquirida en NetApp (BYOL) o desde el mercado del proveedor de cloud (pago por uso).
++
+BlueXP siempre intenta cobrar primero una licencia. Si una licencia no está disponible, se cobra contra una suscripción de Marketplace. No se requiere ninguna «conversión» para la suscripción de BYOL al mercado ni viceversa.
+
+* Si tiene una oferta o contrato privados del mercado de su proveedor de cloud, el cambio a un método de cobro que no esté incluido en su contrato se traducirá en un cobro por licencia con licencia propia (si adquirió una de NetApp) o PAYGO.
+
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.

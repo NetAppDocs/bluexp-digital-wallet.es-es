@@ -38,8 +38,6 @@
   <block id="f591dbc4232b149ea0792178559405f9" category="list-text">Cargue el archivo de licencia.</block>
   <block id="034f6db5181ab87d962e69b9b7b5a995" category="list-text">Haga clic en *cargar licencia*.</block>
   <block id="662442d32a5fd91298fcf8b6391fdf17" category="section-title">Cambiar los métodos de carga</block>
-  <block id="a117b4a94f6f90aef089573b1f002d26" category="paragraph">Puede cambiar el método de carga para un sistema Cloud Volumes ONTAP que utilice licencias basadas en capacidad. Por ejemplo, si implementó un sistema Cloud Volumes ONTAP con el paquete Essentials, puede cambiarlo por el paquete profesional si se necesita cambiar su empresa.</block>
-  <block id="86f463a1f0f0879749d1274dc94305d9" category="paragraph-title">Nota importante</block>
   <block id="cfdb32f80009b1e5c5c0468dda9f013d" category="paragraph">Si tiene una oferta o contrato privados del mercado de su proveedor de cloud, el cambio a un método de cobro que no esté incluido en su contrato se traducirá en un cobro por licencia con licencia propia (si adquirió una de NetApp) o PAYGO.</block>
   <block id="3397777d22d2d5f746157ca31f0d8460" category="list-text">En la ficha *Cloud Volumes ONTAP*, haga clic en *Cambiar método de carga*.</block>
   <block id="de4b4e176958ea7181911ce715504321" category="list-text">Seleccione un entorno de trabajo, elija el nuevo método de carga y, a continuación, confirme que el cambio del tipo de paquete afectará a los cargos por servicio.</block>
@@ -628,4 +626,10 @@
   <block id="1804830d648adf9126d51f4a827ca950" category="paragraph">La cartera digital de BlueXP ahora te permite gestionar las licencias para la recuperación ante desastres de BlueXP. Es posible añadir licencias, actualizar licencias y ver detalles sobre la capacidad con licencia.</block>
   <block id="85bdddc8ce218c6365f105f9d309d898" category="inline-link">Descubre cómo gestionar las licencias para los servicios de datos de BlueXP</block>
   <block id="ca654cde28a00db1fb587b8b6bb82015" category="paragraph"><block ref="ca654cde28a00db1fb587b8b6bb82015" category="inline-link-rx"></block></block>
+  <block id="970af11c442d109ac4d016f7c57f63fb" category="paragraph">La licencia basada en la capacidad está disponible en forma de un _package_. Al crear un entorno de trabajo de Cloud Volumes ONTAP, puede elegir entre varios paquetes de licencias en función de sus necesidades empresariales. Si sus necesidades cambian después de crear el entorno de trabajo, puede cambiar el paquete en cualquier momento. Por ejemplo, puede cambiar del paquete Essentials al paquete Professional.</block>
+  <block id="58dcfad3183b701a8f1b8781a5644d09" category="inline-link">Obtenga más información sobre los paquetes de licencias basados en la capacidad</block>
+  <block id="8e8751cb9b796773a6b79b4d5c3dc7b2" category="paragraph"><block ref="0205926668933cbb2cb5f56900594078" category="inline-link-rx"></block>.</block>
+  <block id="bbe48fb854ea022537208eeeff822f91" category="list-title">Acerca de esta tarea</block>
+  <block id="3e4729f0b91cf008c10b8ab719ea9e99" category="list-text">Cambiar el método de pago no afectará a si se le cobra a través de una licencia adquirida en NetApp (BYOL) o desde el mercado del proveedor de cloud (pago por uso).</block>
+  <block id="07456d1e170e8be27eaff1e39e1ccdf6" category="paragraph">BlueXP siempre intenta cobrar primero una licencia. Si una licencia no está disponible, se cobra contra una suscripción de Marketplace. No se requiere ninguna «conversión» para la suscripción de BYOL al mercado ni viceversa.</block>
 </blocks>
