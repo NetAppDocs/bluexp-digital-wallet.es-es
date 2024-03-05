@@ -76,7 +76,6 @@
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">Si tiene una cuenta de nivel de cliente, puede añadir una o varias cuentas de NSS.</block>
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Si tiene una cuenta de partner o distribuidor, puede añadir una o varias cuentas de NSS, pero no se podrán añadir junto con las cuentas de nivel de cliente.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Una captura de pantalla del menú Ayuda en el que Soporte es la primera opción de la lista</block>
-  <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp utiliza Microsoft Azure Active Directory como proveedor de identidades para servicios de autenticación específicos para soporte y licencias.</block>
   <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">En la página de inicio de sesión, proporcione su dirección de correo electrónico registrada en el sitio de soporte de NetApp y contraseña para realizar el proceso de autenticación.</block>
   <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">Estas acciones permiten a BlueXP utilizar su cuenta NSS para cosas como descargas de licencias, verificación de actualizaciones de software y futuros registros de soporte.</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Tenga en cuenta lo siguiente:</block>
@@ -121,8 +120,6 @@
   <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">Únase a la comunidad de BlueXP para seguir los debates en curso o crear otros nuevos.</block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Documentación</block>
   <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">La documentación de BlueXP que está viendo actualmente.</block>
-  <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">Correo:ng-cloudmanager-feedback@netapp.com[correo electrónico de comentarios]</block>
-  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">Apreciamos sus opiniones. Envíe sus comentarios para ayudarnos a mejorar BlueXP.</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Cree un caso con el soporte de NetApp</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Además de las opciones de autosoporte anteriores, puede trabajar con un especialista de soporte de NetApp para resolver cualquier problema después de activar el soporte de.</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">Antes de empezar</block>
@@ -390,19 +387,11 @@
   <block id="d56bf07ec8cd4e9f29339d605ffef95c" category="sidebar">Licencias basadas en nodos</block>
   <block id="064ff692e4b4a468969f66368c68e2c8" category="sidebar">Gestiona las licencias para clústeres de ONTAP en las instalaciones</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Conocimiento y apoyo</block>
-  <block id="25b1fde564bb1fc860069167d8668df6" category="sidebar">Administre sus licencias</block>
-  <block id="7cbe4872773ca07492a76acf7d557fef" category="sidebar">Gestione licencias basadas en capacidad para Cloud Volumes ONTAP</block>
-  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blogs y comunidad</block>
-  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Comunidad de NetApp</block>
-  <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">Blog de BlueXP</block>
-  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Seminarios web sobre el cloud</block>
   <block id="49f326995814ee311b340478f99f992f" category="doc">Documentación de la cartera digital de BlueXP</block>
   <block id="d73d2254cb7a33ffdc126efbce99e623" category="list-text">Gestiona las suscripciones a PAYGO y los contratos anuales asociados con tu cuenta de BlueXP y a Astra Control</block>
-  <block id="bf4700247951934a88713e31aa00a0a6" category="paragraph">La cartera digital de BlueXP permite gestionar las licencias para lo siguiente:</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="list-text">Backup y recuperación</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="list-text">Clasificación</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="list-text">Organización en niveles</block>
-  <block id="fd75ff71faa02dfc85d4684cc9a98740" category="summary">La cartera digital de BlueXP te permite gestionar las licencias que adquiriste directamente a NetApp (BYOL) para utilizarlas con el backup y la recuperación, la clasificación y la organización en niveles de BlueXP. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.</block>
   <block id="f4b04af639ebf32754e26b928989f33f" category="inline-link">Configura las licencias para el backup y la recuperación de BlueXP</block>
   <block id="6212c283c0695ee1a154f1a6cdde74ef" category="inline-link">Configura las licencias para la clasificación de BlueXP</block>
   <block id="8202299929ccdfe388049a03c2c36d60" category="inline-link">Configura las licencias para la organización en niveles de BlueXP</block>
@@ -437,7 +426,6 @@
   <block id="cf5f3091e30dee6597885d8c0e0c357f" category="list-text">Duración</block>
   <block id="314c4a4eeddb6d1cd1f813b95714f7a2" category="list-text">Si su suscripción a Google Cloud está asociada a una oferta privada y esa oferta privada se modificó después de su creación y aceptación, el término muestra N/A. En este escenario, la respuesta de API que recibimos de Google Cloud Marketplace no incluye información relacionada con los términos.</block>
   <block id="3b3f3f7253f4c57a7eb145d69d119e28" category="list-text">Si tienes una oferta privada de Google Cloud, las opciones de contrato no están disponibles.</block>
-  <block id="885ce97feb1a2410a348b3f3764dee9d" category="list-text">Gestione los servicios de suscripción de Keystone para su uso con Cloud Volumes ONTAP y solicite cambios en la capacidad comprometida</block>
   <block id="4112533811706ae9c45d956e68299f46" category="paragraph">Gestione sus licencias basadas en capacidad desde la cartera digital de BlueXP para garantizar que su cuenta de NetApp tenga suficiente capacidad para sus sistemas Cloud Volumes ONTAP.</block>
   <block id="b37ea3f4c93245969c515634c741e9bf" category="paragraph">_BlueXP DIGITAL WALLET_ le permite gestionar las licencias para Cloud Volumes ONTAP desde una única ubicación. Puede añadir licencias nuevas y actualizar las licencias existentes.</block>
   <block id="03fc5be3f1d32a032f3da42181c0e6ed" category="section-title">Cómo se añaden las licencias a la cartera digital de BlueXP</block>
@@ -622,4 +610,22 @@
   <block id="d7105dd212dc96a8b292b6b48f84916f" category="paragraph"><block ref="d7105dd212dc96a8b292b6b48f84916f" category="inline-link-rx"></block></block>
   <block id="28ca5cda5cdef790c457097830d81ca5" category="paragraph">Si ya no quieres usar una suscripción de Keystone con BlueXP, puedes desvincular la suscripción. Tenga en cuenta que sólo puede desvincular una suscripción que no esté asociada a una suscripción a Cloud Volumes ONTAP existente.</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novedades</block>
+  <block id="d0f4a98872ff48fd92ead596c5f85c7e" category="list-text">Gestiona los servicios de suscripción de Keystone para su uso con Cloud Volumes ONTAP y clústeres de ONTAP en las instalaciones, y solicita cambios en la capacidad comprometida</block>
+  <block id="7665a7ac6a94a4b78d28cc5c7fc692e6" category="paragraph">La cartera digital de BlueXP permite gestionar las licencias para los siguientes servicios:</block>
+  <block id="79ce4013f1223c98134fc4786fafb114" category="list-text"><block ref="79ce4013f1223c98134fc4786fafb114" category="inline-link-rx"></block></block>
+  <block id="20bba0563305cf02e9d03d24ebf6f41a" category="list-text"><block ref="20bba0563305cf02e9d03d24ebf6f41a" category="inline-link-rx"></block></block>
+  <block id="99cd6bbb6bd6b4f32aaf030548bc8abb" category="list-text"><block ref="99cd6bbb6bd6b4f32aaf030548bc8abb" category="inline-link-rx"></block></block>
+  <block id="645a84975202e30700b572b49a5ee29d" category="inline-link">Recuperación tras siniestros</block>
+  <block id="0691bd698f71b96b0752ddbdd208c1aa" category="list-text"><block ref="8edaf8bb4e175626c9b01d0fbc3891ee" category="inline-link-rx"></block> (Solo BYOL)</block>
+  <block id="19a1ee48ff4a757e699cf87a3f0b593d" category="list-text"><block ref="19a1ee48ff4a757e699cf87a3f0b593d" category="inline-link-rx"></block></block>
+  <block id="5ef4f6a3330e077263f2f73cd00474dc" category="list-text"><block ref="5ef4f6a3330e077263f2f73cd00474dc" category="inline-link-rx"></block></block>
+  <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp utiliza Microsoft Entra ID como proveedor de identidad para los servicios de autenticación específicos de soporte y licencias.</block>
+  <block id="7682c7f7c230bf75ef2083e67cfc7179" category="summary">La cartera digital de BlueXP te permite gestionar las licencias adquiridas directamente a NetApp (BYOL) para utilizarlo con el backup y la recuperación de datos, la clasificación, la recuperación ante desastres y la organización en niveles de BlueXP. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.</block>
+  <block id="a7193edb26a4b1bca4b7b82254e6dd4b" category="inline-link">Configura las licencias para la recuperación ante desastres de BlueXP</block>
+  <block id="ef7f2c35c52aa249a13384e6b07d0785" category="list-text"><block ref="ef7f2c35c52aa249a13384e6b07d0785" category="inline-link-rx"></block></block>
+  <block id="592997dde366d5775e7e052816854f74" category="section-title">5 de marzo de 2024</block>
+  <block id="c08885153d0680dab7349b930f5310c4" category="section-title">Recuperación ante desastres de BlueXP</block>
+  <block id="1804830d648adf9126d51f4a827ca950" category="paragraph">La cartera digital de BlueXP ahora te permite gestionar las licencias para la recuperación ante desastres de BlueXP. Es posible añadir licencias, actualizar licencias y ver detalles sobre la capacidad con licencia.</block>
+  <block id="85bdddc8ce218c6365f105f9d309d898" category="inline-link">Descubre cómo gestionar las licencias para los servicios de datos de BlueXP</block>
+  <block id="ca654cde28a00db1fb587b8b6bb82015" category="paragraph"><block ref="ca654cde28a00db1fb587b8b6bb82015" category="inline-link-rx"></block></block>
 </blocks>

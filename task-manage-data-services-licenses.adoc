@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: task-manage-data-services-licenses.html 
-keywords: data services, byol, cloud backup, cloud tiering, data sense, cloud data sense, obtain license file, nlf, add license, update license, digital wallet, bluexp digital wallet, classification, bluexp classification, bluexp tiering, tiering, bluexp backup and recovery, backup and recovery 
-summary: 'La cartera digital de BlueXP te permite gestionar las licencias que adquiriste directamente a NetApp (BYOL) para utilizarlas con el backup y la recuperación, la clasificación y la organización en niveles de BlueXP. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.' 
+keywords: data services, byol, cloud backup, cloud tiering, data sense, cloud data sense, obtain license file, nlf, add license, update license, digital wallet, bluexp digital wallet, classification, bluexp classification, bluexp tiering, tiering, bluexp backup and recovery, backup and recovery, disaster recovery 
+summary: 'La cartera digital de BlueXP te permite gestionar las licencias adquiridas directamente a NetApp (BYOL) para utilizarlo con el backup y la recuperación de datos, la clasificación, la recuperación ante desastres y la organización en niveles de BlueXP. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.' 
 ---
 = Gestiona las licencias para los servicios de datos de BlueXP
 :hardbreaks:
@@ -14,12 +14,13 @@ summary: 'La cartera digital de BlueXP te permite gestionar las licencias que ad
 
 
 [role="lead"]
-La cartera digital de BlueXP te permite gestionar las licencias que adquiriste directamente a NetApp (BYOL) para utilizarlas con el backup y la recuperación, la clasificación y la organización en niveles de BlueXP. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.
+La cartera digital de BlueXP te permite gestionar las licencias adquiridas directamente a NetApp (BYOL) para utilizarlo con el backup y la recuperación de datos, la clasificación, la recuperación ante desastres y la organización en niveles de BlueXP. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.
 
 Las instrucciones de esta página proporcionan información que se aplica a cada servicio. Para obtener información más específica sobre la licencia de estos servicios, consulte las siguientes páginas:
 
 * https://docs.netapp.com/us-en/bluexp-backup-recovery/task-licensing-cloud-backup.html["Configura las licencias para el backup y la recuperación de BlueXP"^]
 * https://docs.netapp.com/us-en/bluexp-classification/task-licensing-datasense.html["Configura las licencias para la clasificación de BlueXP"^]
+* https://docs.netapp.com/us-en/bluexp-disaster-recovery/get-started/dr-licensing.html["Configura las licencias para la recuperación ante desastres de BlueXP"^]
 * https://docs.netapp.com/us-en/bluexp-tiering/task-licensing-cloud-tiering.html["Configura las licencias para la organización en niveles de BlueXP"^]
 
 
