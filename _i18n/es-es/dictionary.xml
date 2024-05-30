@@ -628,8 +628,16 @@
   <block id="ca654cde28a00db1fb587b8b6bb82015" category="paragraph"><block ref="ca654cde28a00db1fb587b8b6bb82015" category="inline-link-rx"></block></block>
   <block id="970af11c442d109ac4d016f7c57f63fb" category="paragraph">La licencia basada en la capacidad está disponible en forma de un _package_. Al crear un entorno de trabajo de Cloud Volumes ONTAP, puede elegir entre varios paquetes de licencias en función de sus necesidades empresariales. Si sus necesidades cambian después de crear el entorno de trabajo, puede cambiar el paquete en cualquier momento. Por ejemplo, puede cambiar del paquete Essentials al paquete Professional.</block>
   <block id="58dcfad3183b701a8f1b8781a5644d09" category="inline-link">Obtenga más información sobre los paquetes de licencias basados en la capacidad</block>
-  <block id="8e8751cb9b796773a6b79b4d5c3dc7b2" category="paragraph"><block ref="0205926668933cbb2cb5f56900594078" category="inline-link-rx"></block>.</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="list-title">Acerca de esta tarea</block>
   <block id="3e4729f0b91cf008c10b8ab719ea9e99" category="list-text">Cambiar el método de pago no afectará a si se le cobra a través de una licencia adquirida en NetApp (BYOL) o desde el mercado del proveedor de cloud (pago por uso).</block>
   <block id="07456d1e170e8be27eaff1e39e1ccdf6" category="paragraph">BlueXP siempre intenta cobrar primero una licencia. Si una licencia no está disponible, se cobra contra una suscripción de Marketplace. No se requiere ninguna «conversión» para la suscripción de BYOL al mercado ni viceversa.</block>
+  <block id="d5f06dc5f98a38b5ccff1592c5d20e76" category="admonition">Mientras que el uso y la medición reales de los productos y servicios gestionados en BlueXP siempre se calculan en GiB y TiB, los términos GB/GiB y TB/TiB se utilizan indistintamente. Esto se refleja en las listas de Cloud Marketplace, las cotizaciones de precios, las descripciones de las listas y en otra documentación de apoyo</block>
+  <block id="3e509b6c896c67a8b8ec2afa8f3aa8eb" category="admonition">Para obtener más información sobre cómo obtener un archivo de licencia, consulte<block ref="c65aa3342130b0295e06cd938a12ad5e" category="inline-link-rx"></block>.</block>
+  <block id="6b5c2460f150173d3723de8a857a4d33" category="paragraph"><block ref="179c8a3ed717f2c4de3149f0e9edf685" category="inline-link-rx"></block>.</block>
+  <block id="25b1fde564bb1fc860069167d8668df6" category="sidebar">Administre sus licencias</block>
+  <block id="7cbe4872773ca07492a76acf7d557fef" category="sidebar">Gestione licencias basadas en capacidad para Cloud Volumes ONTAP</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blogs y comunidad</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Comunidad de NetApp</block>
+  <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">Blog de BlueXP</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Seminarios web sobre el cloud</block>
 </blocks>
