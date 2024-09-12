@@ -34,9 +34,12 @@ La cartera digital de BlueXP te permite gestionar y supervisar las licencias de 
 La cartera digital de BlueXP permite gestionar las licencias para los siguientes servicios:
 
 * https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html["Backup y recuperación"^]
-* https://docs.netapp.com/us-en/bluexp-classification/index.html["Clasificación"^]
 * https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html["Cloud Volumes ONTAP"^]
 * https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html["Recuperación tras siniestros"^] (Solo BYOL)
+* https://docs.netapp.com/us-en/bluexp-ransomware-protection/index.html["Protección contra ransomware"^]
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html["Clústeres de ONTAP en las instalaciones"^]
 * https://docs.netapp.com/us-en/bluexp-tiering/index.html["Organización en niveles"^]
 
+
+
+TIP: La cartera digital de BlueXP  también te permite gestionar licencias para la clasificación de BlueXP . Sin embargo, la clasificación BlueXP  ahora está disponible como funcionalidad básica dentro de BlueXP  sin coste adicional. Ya no se necesita una licencia o suscripción. https://docs.netapp.com/us-en/bluexp-classification/concept-cloud-compliance.html["Más información sobre la clasificación de BlueXP"^]

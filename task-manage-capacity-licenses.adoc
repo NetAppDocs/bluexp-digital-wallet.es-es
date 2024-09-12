@@ -181,7 +181,7 @@ Sin embargo, si ha implementado BlueXP en una ubicación que no tiene acceso a I
 El archivo de licencia (o _files_ si tiene un par ha).
 
 
-NOTE: Para obtener más información sobre cómo obtener un archivo de licencia, consulte https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-manage-node-licenses.html#obtain-a-system-license-file["Obtenga un archivo de licencia del sistema"^].
+NOTE: Para obtener más información sobre cómo obtener un archivo de licencia, consulte https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-manage-node-licenses.html#obtain-a-system-license-file["Obtenga un archivo de licencia del sistema"^] .
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
