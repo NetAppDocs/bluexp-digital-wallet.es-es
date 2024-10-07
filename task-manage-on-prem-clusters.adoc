@@ -20,7 +20,7 @@ La cartera digital de BlueXP te permite ver los detalles del contrato de cada un
 La cartera digital de BlueXP muestra detalles sobre los clústeres de ONTAP on-premises que has detectado como entorno de trabajo o que están asociados a una cuenta del sitio de soporte de NetApp que has añadido a BlueXP.
 
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Descubra cómo detectar un clúster de ONTAP en las instalaciones"^]
-* https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Descubre cómo gestionar las credenciales de NSS asociadas con tu cuenta de BlueXP"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Aprenda a gestionar las credenciales de NSS asociadas con su organización o cuenta de BlueXP "^]
 
 
 

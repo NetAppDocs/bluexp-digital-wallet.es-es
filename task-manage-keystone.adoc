@@ -55,7 +55,7 @@ image:screenshot-keystone-link.png["Captura de pantalla que muestra la opción d
 
 
 .Resultado
-La suscripción está ahora vinculada a su cuenta de BlueXP y disponible para seleccionar al crear un entorno de trabajo de Cloud Volumes ONTAP.
+La suscripción ahora está vinculada a su organización o cuenta de BlueXP  y está disponible para seleccionarla al crear un entorno de trabajo de Cloud Volumes ONTAP.
 
 
 
@@ -98,4 +98,4 @@ Si ya no quieres usar una suscripción de Keystone con BlueXP, puedes desvincula
 
 
 .Resultado
-La suscripción no está vinculada desde su cuenta de BlueXP y ya no está disponible para seleccionarla al crear un entorno de trabajo de Cloud Volumes ONTAP.
+La suscripción se desvincula de su organización o cuenta de BlueXP  y ya no está disponible para seleccionarla al crear un entorno de trabajo de Cloud Volumes ONTAP.

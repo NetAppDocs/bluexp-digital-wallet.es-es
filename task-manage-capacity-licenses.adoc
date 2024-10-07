@@ -84,7 +84,7 @@ image:screenshot-digital-wallet-packages.png["Captura de pantalla que muestra la
 
 == Descargar informes de uso
 
-Los administradores de cuentas pueden descargar cuatro informes de uso desde la cartera digital en BlueXP. Estos informes de uso proporcionan detalles sobre la capacidad de sus suscripciones y cómo se le cobra por los recursos de sus suscripciones a Cloud Volumes ONTAP. Los informes descargables capturan datos en un momento específico y se pueden compartir fácilmente con otros.
+Puede descargar cuatro informes de uso de la cartera digital de BlueXP . Estos informes de uso proporcionan detalles sobre la capacidad de sus suscripciones y cómo se le cobra por los recursos de sus suscripciones a Cloud Volumes ONTAP. Los informes descargables capturan datos en un momento específico y se pueden compartir fácilmente con otros.
 
 image:screenshot-digital-wallet-usage-report.png["La captura de pantalla muestra la página de licencias basadas en capacidad de Cloud Volumes ONTAP de la cartera digital y resalta el botón de informe de uso."]
 

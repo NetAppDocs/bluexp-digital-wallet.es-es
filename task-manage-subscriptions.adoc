@@ -24,7 +24,7 @@ Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se le redir
 
 == Ver sus suscripciones
 
-La cartera digital de BlueXP ofrece detalles sobre cada suscripción PAYGO y el contrato anual asociado con tu cuenta de BlueXP y con Astra Control (Astra Control usa el servicio de carga de BlueXP).
+La cartera digital de BlueXP  ofrece detalles sobre cada suscripción PAYGO y el contrato anual asociado con la organización o cuenta de BlueXP , además de Astra Control (Astra Control utiliza el servicio de cobro de BlueXP ).
 
 Para Google Cloud, también puedes identificar suscripciones de Marketplace asociadas a una oferta privada, lo que te permite verificar que has aceptado la oferta correctamente.
 
@@ -82,5 +82,5 @@ Por ejemplo, digamos que tiene dos cuentas y cada una se factura mediante suscri
 +
 image:screenshot-subscription-menu.png["Una captura de pantalla del menú de acciones para una suscripción."]
 
-. Elija cambiar el nombre de la suscripción o administrar las cuentas de BlueXP asociadas a la suscripción.
+. Elija cambiar el nombre de la suscripción o gestionar las organizaciones o cuentas de BlueXP  asociadas a la suscripción.
 
