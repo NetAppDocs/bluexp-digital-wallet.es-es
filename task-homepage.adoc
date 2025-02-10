@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-homepage.html 
-keywords: license, licensing, capacity license, capacity based license, add license, install license, digital wallet, bluexp digital wallet, cloud volumes ontap license, cloud volumes ontap 
+keywords: license, licensing, dashboard, capacity license, capacity based license, add license, install license, digital wallet, bluexp digital wallet, cloud volumes ontap license, cloud volumes ontap 
 summary: Obtenga una descripción general de todas las suscripciones y licencias para su organización en la página de inicio digital. 
 ---
 = Utilice la descripción general del panel de control
@@ -43,14 +43,14 @@ link:task-manage-data-services-licenses.html["Obtenga más información sobre la
 . Seleccione *Descripción general*.
 . Seleccione *Ver* para el servicio de datos respectivo (incluido Cloud Volumes ONTAP) para ver detalles y administrar licencias y suscripciones.
 +
-Cada icono ofrece un resumen gráfico del estado de la capacidad, mientras que la página de detalles permite ver y gestionar los métodos de pago de esa capacidad.
+Cada icono ofrece una información gráfica sobre la capacidad. Puede ver la página de detalles para ver y gestionar métodos de pago para esa capacidad.
 
 . Seleccione la pestaña *Licencias* o *Suscripciones*.
 . Filtre la tabla seleccionando un filtro de columna y un valor por el que filtrar. Por ejemplo, en la pestaña *Suscripciones*, puedes filtrar la columna Tipo por Contrato anual o Suscripción.
 +
 image:screenshot_digital_wallet_filter.png["Acción de filtro en la tabla de suscripción"]
 
-. Personalice las columnas que se muestran en la tabla. Puede agregar y eliminar columnas de la tabla si selecciona el icono de columna que indica las columnas que desea mostrar u ocultar. La siguiente captura de pantalla indica que sólo las columnas Tipo, Fecha de finalización, Estado y Configuración.
+. Personalice las columnas que se muestran en la tabla. Puede agregar y eliminar columnas de la tabla seleccionando el icono *Columna* que indica qué columnas desea mostrar u ocultar. La siguiente captura de pantalla indica que sólo las columnas Tipo, Fecha de finalización, Estado y Configuración.
 +
 image:screenshot_digital_wallet_show_hide_columns.png["la captura de pantalla proporciona un ejemplo de cómo mostrar u ocultar columnas"]
 
