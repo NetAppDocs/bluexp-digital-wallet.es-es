@@ -1,0 +1,41 @@
+= 
+:allow-uri-read: 
+
+
+Debe obtener un archivo de licencia de NetApp para cargar si BlueXP  no tiene acceso a Internet (instalaciones en modo privado).
+
+Después de adquirir una licencia de su representante de ventas de NetApp, NetApp le envía un correo electrónico con el número de serie y la información adicional sobre las licencias. En el caso de que no vea sus licencias automáticamente, necesitará ese número de serie para obtener el archivo de licencia correspondiente.
+
+.Pasos
+. Encuentra tu ID de cuenta de BlueXP :
++
+.. En la parte superior derecha de la consola de BlueXP , seleccione image:icon-settings-option.png["El icono de configuración que aparece en la parte superior derecha de la consola web de BlueXP ."]> *Gestión de identidades y acceso*.
+.. En la página Organización, busque su ID de cuenta y cópielo.
++
+Si no aparece ningún ID de cuenta y solo tiene un ID de organización, tendrá que copiar los primeros ocho caracteres del ID de organización y agregarlo a _account-_
+
++
+Por ejemplo, supongamos que este es el ID de su organización:
+
++
+ea10e1c6-80cc-4219-8e99-3c3e6b161ba5
+
++
+Su ID de cuenta sería el siguiente:
+
++
+cuenta-ea10e1c6
+
+
+
+. Inicie sesión en la https://mysupport.netapp.com["Sitio de soporte de NetApp"^] Y seleccione *Sistemas > Licencias de software*.
+. Escriba el número de serie de su licencia.
++
+image:../media/screenshot_cloud_backup_license_step1.gif["Captura de pantalla que muestra una tabla de licencias después de buscar por número de serie."]
+
+. En la columna *Clave de licencia*, selecciona *Obtener archivo de licencia de NetApp*.
+. Ingrese su ID de cuenta de BlueXP  (esto se denomina ID de inquilino en el sitio de soporte) y seleccione *Enviar* para descargar el archivo de licencia.
++
+image:../media/screenshot_cloud_backup_license_step2.gif["Una captura de pantalla que muestra el cuadro de diálogo Obtener licencia donde puede introducir su ID de inquilino y, a continuación, seleccionar Enviar para descargar el archivo de licencia."]
+
+

@@ -1,0 +1,29 @@
+= Nuevo panel de información general
+:allow-uri-read: 
+
+
+La cartera digital de BlueXP  se ha rediseñado para facilitar el uso y ahora proporciona gestión de licencias y suscripciones adicionales.
+
+
+
+=== Nuevo panel de información general
+
+La página de inicio de la cartera digital tiene un panel actualizado de tus licencias de NetApp y suscripciones de Marketplace, con la capacidad de profundizar en servicios específicos, tipos de licencias y acciones necesarias.
+
+
+
+=== Configurando suscripciones a credenciales
+
+Ahora, la cartera digital de BlueXP  le permite configurar sus suscripciones con las credenciales del proveedor. Normalmente, lo haces cuando te suscribes por primera vez a una suscripción del Marketplace o un contrato anual. El cambio anterior de las credenciales de la suscripción sólo se podía realizar en la página Credenciales.
+
+
+
+=== Asociación de suscripciones a organizaciones
+
+Ahora puede actualizar la organización a la que está asociada una suscripción directamente desde la cartera digital.
+
+
+
+=== Gestión de licencias de Cloud Volumes ONTAP
+
+Ahora administra las licencias de Cloud Volumes ONTAP a través de la página de inicio o la pestaña *Licencias de servicio de datos*. Utilice la pestaña *Suscripciones de Marketplace* para ver la información de su suscripción.

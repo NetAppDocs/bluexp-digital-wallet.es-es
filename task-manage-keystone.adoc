@@ -28,12 +28,12 @@ Para poder usar y gestionar las suscripciones de Keystone en BlueXP, debes poner
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
-. Selecciona *Keystone*.
+. Selecciona *Suscripciones Keystone*.
 . Si ve la página *Bienvenido a NetApp Keystone*, envíe un correo electrónico a la dirección que aparece en la página.
 +
 Un representante de NetApp procesará su solicitud al autorizar a su cuenta de usuario a acceder a las suscripciones.
 
-. Vuelve a la *Keystone Subscription* para ver tus suscripciones.
+. Vuelve a la pestaña *Suscripciones de Keystone* para ver tus suscripciones.
 +
 image:screenshot-keystone-overview.png["Una captura de pantalla que muestra una lista de suscripciones de Keystone."]
 
@@ -47,7 +47,7 @@ Una vez que NetApp autorice a su cuenta, puedes enlazar las suscripciones de Key
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
-. Selecciona *Keystone*.
+. Selecciona *Suscripciones Keystone*.
 . Para ver la suscripción que desea vincular, haga clic en image:icon-action.png["Un icono que tiene tres puntos uno al lado del otro"] Y seleccione *Link*.
 +
 image:screenshot-keystone-link.png["Captura de pantalla que muestra la opción de enlace para una suscripción."]
@@ -65,7 +65,7 @@ Si quieres cambiar la capacidad comprometida para los niveles de servicio de tu 
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
-. Selecciona *Keystone*.
+. Selecciona *Suscripciones Keystone*.
 . En la suscripción que desea ajustar la capacidad, haga clic en image:icon-action.png["Un icono que tiene tres puntos uno al lado del otro"] Y selecciona *Ver detalle y editar*.
 . Introduzca la capacidad comprometida solicitada para una o más suscripciones.
 +
@@ -89,7 +89,7 @@ https://docs.netapp.com/us-en/keystone-staas/integrations/aiq-keystone-details.h
 
 == Desvincular una suscripción
 
-Si ya no quieres usar una suscripción de Keystone con BlueXP, puedes desvincular la suscripción. Tenga en cuenta que sólo puede desvincular una suscripción que no esté asociada a una suscripción a Cloud Volumes ONTAP existente.
+Si ya no desea usar una suscripción de Keystone con BlueXP , puede desvincular la suscripción. Tenga en cuenta que sólo puede desvincular una suscripción que no esté asociada a una suscripción a Cloud Volumes ONTAP existente.
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.

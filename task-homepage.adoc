@@ -1,0 +1,81 @@
+---
+sidebar: sidebar 
+permalink: task-homepage.html 
+keywords: license, licensing, capacity license, capacity based license, add license, install license, digital wallet, bluexp digital wallet, cloud volumes ontap license, cloud volumes ontap 
+summary: Obtenga una descripción general de todas las suscripciones y licencias para su organización en la página de inicio digital. 
+---
+= Utilice la descripción general del panel de control
+:allow-uri-read: 
+
+
+
+
+== Utilice la descripción general del panel de control
+
+[role="lead"]
+Utilice el panel *Overview* de la cartera digital para supervisar el estado de sus licencias y suscripciones para asegurarse de que puede administrar los costos y mantener el servicio a medida que las suscripciones alcanzan las fechas de vencimiento o los límites de capacidad.
+
+Puede ver información específica de licencias y suscripciones sobre cada uno de sus servicios de datos (incluido Cloud Volumes ONTAP) y profundizar en los detalles de cada uno.
+
+También recibirá alertas de futuros límites o vencimientos de capacidad, y se le solicitará que tome medidas.
+
+
+
+=== Ver detalles sobre un servicio de datos específico
+
+El panel de control de la billetera digital *Overview* ofrece la posibilidad de ver detalles sobre los siguientes servicios de datos:
+
+* Cloud Volumes ONTAP
+* Recuperación tras siniestros
+* Protección contra ransomware
+* Backup y recuperación
+* Organización en niveles
+
+
+Por ejemplo, los administradores encargados de gestionar recursos de Cloud Volumes ONTAP pueden ver la capacidad actual de cada licencia o suscripción, lo que les proporciona una vista específica de los recursos dentro de su ámbito.
+
+Nota: Aunque puede actualizar y eliminar licencias del panel de control, no puede agregar una nueva licencia o suscripción.
+
+link:task-manage-data-services-licenses.html["Obtenga más información sobre la gestión de licencias"^]. link:task-manage-subscriptions.html["Obtenga más información sobre la gestión de suscripciones"^].
+
+.Pasos
+. En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
+. Seleccione *Descripción general*.
+. Seleccione *Ver* para el servicio de datos respectivo (incluido Cloud Volumes ONTAP) para ver detalles y administrar licencias y suscripciones.
++
+Cada icono ofrece un resumen gráfico del estado de la capacidad, mientras que la página de detalles permite ver y gestionar los métodos de pago de esa capacidad.
+
+. Seleccione la pestaña *Licencias* o *Suscripciones*.
+. Filtre la tabla seleccionando un filtro de columna y un valor por el que filtrar. Por ejemplo, en la pestaña *Suscripciones*, puedes filtrar la columna Tipo por Contrato anual o Suscripción.
++
+image:screenshot_digital_wallet_filter.png["Acción de filtro en la tabla de suscripción"]
+
+. Personalice las columnas que se muestran en la tabla. Puede agregar y eliminar columnas de la tabla si selecciona el icono de columna que indica las columnas que desea mostrar u ocultar. La siguiente captura de pantalla indica que sólo las columnas Tipo, Fecha de finalización, Estado y Configuración.
++
+image:screenshot_digital_wallet_show_hide_columns.png["la captura de pantalla proporciona un ejemplo de cómo mostrar u ocultar columnas"]
+
+. Expanda cualquier fila para ver detalles de lo que incluye la suscripción o la licencia, la capacidad adquirida y las condiciones.
+. Utilice el menú Acciones para administrar una licencia o suscripción específica, como actualizar una licencia o asociar una suscripción a otra organización.
++
+No puede agregar nuevas licencias o suscripciones desde la página *Descripción general* para un servicio específico, solo puede agregar licencias o suscripciones desde la pestaña *Licencias de servicio de datos* o la pestaña *Suscripciones de Marketplace*, respectivamente.
+
++
+link:task-data-services-licenses.html["Obtenga más información sobre la gestión de licencias."] link:task-manage-subscriptions.html["Obtenga más información sobre la gestión de suscripciones."]
+
+
+
+
+
+=== Resolver problemas de licencia o suscripción
+
+Puede ver los problemas de licencia y suscripción que deben resolverse. Entre los problemas se incluyen licencias y suscripciones que caducan o alcanzan su capacidad.
+
+. En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
+. Seleccione *Descripción general*.
+. Seleccione *Resolver* para el mosaico *Requiere acción* para ver los problemas que deben ajustarse. Si *Resolver* no aparece, no hay problemas que requieran acción en este momento.
+. En la página *Requerir acción*, selecciona la pestaña *Licencias* o la pestaña *Suscripciones*.
+. Utilice el menú de acción para resolver el problema.
++
+link:task-manage-data-services-licenses.html["Obtenga más información sobre la gestión de licencias"^]. link:task-manage-subscriptions.html["Obtenga más información sobre la gestión de suscripciones"^].
+
+

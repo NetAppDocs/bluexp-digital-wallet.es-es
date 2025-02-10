@@ -1,0 +1,26 @@
+= 
+:allow-uri-read: 
+
+
+Si el plazo que tiene con la licencia está a punto de expirar o si la capacidad de su licencia está llegando al límite, se le notificará en la cartera digital de BlueXP . Puede actualizar su licencia antes de que caduque, de modo que no haya interrupciones en su capacidad para usar un servicio de datos de BlueXP  o Cloud Volumes ONTAP.
+
+Tras comprar capacidad adicional a NetApp o ampliar el plazo de su licencia, BlueXP  actualiza automáticamente la licencia en la cartera digital cuando la cuenta de BlueXP  asociada con la licencia es también una cuenta del sitio de soporte de NetApp y BlueXP  tiene acceso a Internet.
+
+Si tu cuenta de BlueXP  no está asociada a tu cuenta de NSS, tendrás que actualizar manualmente una licencia.
+
+Puede actualizar manualmente su licencia en BlueXP  introduciendo el número de serie y la cuenta de NSS asociada, o cargando el archivo de licencia de NetApp (o _files_ si tiene un par de alta disponibilidad de Cloud Volumes ONTAP). Debe obtener un archivo de licencia de NetApp para cargar si BlueXP  no tiene acceso a Internet (instalaciones en modo privado).
+
+Después de adquirir una licencia de su representante de ventas de NetApp, NetApp le envía un correo electrónico con el número de serie y la información adicional sobre las licencias. Necesitará ese número de serie para agregar o actualizar la licencia correspondiente en la cartera digital.
+
+
+NOTE: Si desea introducir el número de serie, primero tiene que hacerlo https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Agregue su cuenta de la página de soporte de NetApp a BlueXP"^]. Esta es la cuenta del sitio de soporte de NetApp que está autorizada para acceder al número de serie.
+
+.Pasos
+. Póngase en contacto con su representante de NetApp para adquirir una nueva licencia.
++
+Después de pagar la licencia y de estar registrado en el sitio de soporte de NetApp, BlueXP  actualiza automáticamente la licencia en la cartera digital de BlueXP  y la página de licencias de servicio de datos reflejará el cambio en un plazo de 5 a 10 minutos.
+
+. Si BlueXP  no puede actualizar automáticamente la licencia (por ejemplo, cuando usa BlueXP  en modo privado), deberá obtener un archivo de licencia de NetApp del soporte técnico y cargar manualmente el archivo de licencia. <<obtain-license,Aprenda cómo obtener un archivo de licencia.>>
+. En la pestaña _Data service licenses_, seleccione image:icon-action.png["Icono más"] el número de serie que está actualizando y seleccione *Actualizar licencia*.
+. En la página _Actualizar licencia_, cargue el archivo de licencia y seleccione *Actualizar licencia*.
+

@@ -1,0 +1,29 @@
+= 
+:allow-uri-read: 
+
+
+La información de la licencia se muestra automáticamente en la cartera digital cuando la cuenta de BlueXP  asociada con la licencia también es una cuenta del sitio de soporte de NetApp y BlueXP  tiene acceso a Internet. Si ha utilizado una cuenta de BlueXP  que no está asociada a su cuenta NSS, deberá agregar una licencia manualmente.
+
+Puede agregar la licencia en BlueXP  introduciendo el número de serie y la cuenta de NSS asociada, o cargando el archivo de licencia de NetApp (NLF). Debe obtener un archivo de licencia de NetApp para cargar si BlueXP  no tiene acceso a Internet (instalaciones en modo privado).
+
+Después de adquirir una licencia de su representante de ventas de NetApp, NetApp le envía un correo electrónico con el número de serie y la información adicional sobre las licencias. Necesitará ese número de serie para agregar o actualizar la licencia correspondiente en la cartera digital.
+
+
+NOTE: Si desea introducir el número de serie, primero tiene que hacerlo https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Agregue su cuenta de la página de soporte de NetApp a BlueXP"^]. Esta es la cuenta del sitio de soporte de NetApp que está autorizada para acceder al número de serie.
+
+.Pasos
+. En el menú BlueXP , selecciona *Gobernanza > Cartera digital* y, a continuación, selecciona la pestaña *Licencias de servicios de datos*.
+. Seleccione *Agregar licencia*.
+. En el cuadro de diálogo _Add license_, introduzca la información de licencia y seleccione *Add license*:
++
+** Si tiene el número de serie y conoce su cuenta NSS, seleccione *Introduzca el número de serie* e introduzca esa información.
++
+Si introdujo un número de serie, también necesita seleccionar la cuenta del sitio de soporte de NetApp autorizada para acceder al número de serie.
+
++
+Si su cuenta del sitio de soporte de NetApp no está disponible en la lista desplegable, https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Agregue la cuenta NSS a BlueXP"^]
+
+** Si tiene el archivo de licencia (requerido cuando usa BlueXP  en modo privado), seleccione la opción *Cargar archivo de licencia* y siga las indicaciones para adjuntar el archivo.
+
+
+

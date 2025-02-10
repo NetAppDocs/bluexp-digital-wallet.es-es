@@ -22,28 +22,32 @@ sidebar:
       url: "/concept-digital-wallet.html"
   - title: Utiliza la cartera digital de BlueXP
     entries:
-    - title: Gestionar licencias de Cloud Volumes ONTAP
+    - title: Utilice el panel Visión general
+      url: "/task-homepage.html"
+    - title: Gestionar licencias
       entries:
-      - title: Licencias basadas en capacidad
-        url: "/task-manage-capacity-licenses.html"
-      - title: Licencias basadas en nodos
-        url: "/task-manage-node-based-licenses.html"
-    - title: Gestiona las licencias para los servicios de datos de BlueXP
-      url: "/task-manage-data-services-licenses.html"
-    - title: Gestionar suscripciones y contratos de PAYGO
+      - title: Gestionar las licencias de servicios de datos
+        url: "/task-manage-data-services-licenses.html"
+      - title: Gestionar licencias de Cloud Volumes ONTAP
+        entries:
+        - title: Licencias basadas en capacidad para Cloud Volumes ONTAP
+          url: "/task-manage-capacity-licenses.html"
+        - title: Licencias basadas en nodos para Cloud Volumes ONTAP
+          url: "/task-manage-node-based-licenses.html"
+    - title: Gestionar suscripciones de Marketplace
       url: "/task-manage-subscriptions.html"
     - title: Gestiona las suscripciones de Keystone
       url: "/task-manage-keystone.html"
-    - title: Gestiona las licencias para clústeres de ONTAP en las instalaciones
+    - title: Gestione las licencias de ONTAP en las instalaciones
       url: "/task-manage-on-prem-clusters.html"
-  - title: Conocimiento y apoyo
-    entries:
-    - title: Regístrese para recibir soporte
-      url: "/task-support-registration.html"
-    - title: Obtenga ayuda
-      url: "/task-get-help.html"
-  - title: Avisos legales
-    url: "/legal-notices.html"
+    - title: Conocimiento y apoyo
+      entries:
+      - title: Regístrese para recibir soporte
+        url: "/task-support-registration.html"
+      - title: Obtenga ayuda
+        url: "/task-get-help.html"
+    - title: Avisos legales
+      url: "/legal-notices.html"
 product-family:
   name: BlueXP
   repo: bluexp-family

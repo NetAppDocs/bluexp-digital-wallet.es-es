@@ -14,28 +14,32 @@ summary: Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se
 
 
 [role="lead"]
-Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se le redirigirá al sitio web de BlueXP donde necesita guardar su suscripción y asociarla a cuentas específicas. Una vez que se haya suscrito, cada suscripción se puede gestionar desde la cartera digital de BlueXP.
+Cuando te suscribes a servicios de datos de BlueXP  (incluido Cloud Volumes ONTAP) desde el mercado de un proveedor de nube, te redirigirás al sitio web de BlueXP  donde tendrás que guardar la suscripción y asociarla a tu organización de BlueXP . Una vez que se haya suscrito, cada suscripción se puede gestionar desde la cartera digital de BlueXP.
 
-* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-standard-mode.html["Descubra cómo suscribirse a BlueXP (modo estándar)"^]
-* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-restricted-mode.html["Descubra cómo suscribirse a BlueXP (modo restringido)"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-standard-mode.html["Descubra cómo suscribirse a servicios de datos de BlueXP  (modo estándar)"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-restricted-mode.html["Descubra cómo suscribirse a servicios de datos de BlueXP  (modo restringido)"^]
 
+
+
+NOTE: La página de suscripciones *Marketplace* enumera todas las licencias. Si desea obtener detalles de licencia para un servicio de datos específico, utilice los mosaicos de servicios de datos en el panel *Overview*. link:task-homepage.html#overview-page["Obtenga más información sobre el panel Descripción general"].
 
 
 
 == Ver sus suscripciones
 
-La cartera digital de BlueXP  ofrece detalles sobre cada suscripción PAYGO y el contrato anual asociado con la organización o cuenta de BlueXP , además de Astra Control (Astra Control utiliza el servicio de cobro de BlueXP ).
+La cartera digital de BlueXP  proporciona detalles sobre cada suscripción PAYGO y el contrato anual asociado a tu organización o cuenta de BlueXP .
 
 Para Google Cloud, también puedes identificar suscripciones de Marketplace asociadas a una oferta privada, lo que te permite verificar que has aceptado la oferta correctamente.
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
-. Seleccione *Suscripciones*.
+. Selecciona *Suscripciones de Marketplace*.
 +
-Solo verá las suscripciones asociadas a la cuenta que está viendo actualmente.
+Solo verá las suscripciones asociadas a la organización que está viendo actualmente.
 
 . Cuando vea la información sobre sus suscripciones, puede interactuar con los detalles de la tabla de la siguiente manera:
 +
+** Utilice la búsqueda y el filtrado avanzados para determinar las suscripciones que se muestran en la tabla. Puede buscar por un nombre específico de una suscripción y filtrar por una variedad de parámetros de suscripción, como el tipo y la configuración.
 ** Expanda una fila para ver más detalles.
 +
 image:screenshot-subscriptions-expand.png["Una captura de pantalla de la pestaña Suscripciones en la cartera digital donde puede seleccionar la flecha al final de una fila para expandirla."]
@@ -69,18 +73,112 @@ Contratos::
 
 
 
-== Gestione sus suscripciones
+== Cambie el nombre de una suscripción
 
-Puedes gestionar tus suscripciones desde la cartera digital de BlueXP si cambias el nombre de una suscripción y seleccionas las cuentas asociadas a la suscripción.
-
-Por ejemplo, digamos que tiene dos cuentas y cada una se factura mediante suscripciones independientes. Puede desasociar una suscripción de una de las cuentas para que los usuarios de esa cuenta no elijan accidentalmente la suscripción incorrecta al crear un entorno de trabajo de Cloud Volumes ONTAP.
+Puede cambiar el nombre de una suscripción para identificar mejor cómo se utiliza en su organización.
 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
-. Seleccione *Suscripciones*.
-. Seleccione el menú de acciones de la fila correspondiente a la suscripción que desea administrar.
+. Selecciona *Suscripciones de Marketplace*.
+. Selecciona el menú de acción en la fila que corresponda a la suscripción que quieres gestionar y elige *Renombrar*.
 +
-image:screenshot-subscription-menu.png["Una captura de pantalla del menú de acciones para una suscripción."]
+image:screenshot_rename_subscription.png["Una captura de pantalla de la opción Cambiar nombre de una suscripción."]
 
-. Elija cambiar el nombre de la suscripción o gestionar las organizaciones o cuentas de BlueXP  asociadas a la suscripción.
+
+
+
+
+== Configurar una suscripción con una credencial de proveedor
+
+Las suscripciones se configuran normalmente con la credencial de proveedor que creó al suscribirse. En algunos casos, es posible que deba volver a configurar una suscripción para utilizar una credencial diferente si desea cambiar la forma en que se cobra. La credencial asociada a una suscripción debe ser una credencial que también esté asociada a un conector.
+
+El formato de la credencial depende del mercado que esté utilizando. Por ejemplo, las suscripciones de Azure Marketplace están asociadas con el nombre de la suscripción de Azure, mientras que las suscripciones de AWS Marketplace usan el ID de cuenta de AWS. Puede ver una lista de credenciales disponibles en la página Credenciales.
+
+La opción Configurar aparece atenuada si se ha anulado la suscripción.
+
+.Pasos
+. En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
+. Selecciona *Suscripciones de Marketplace*.
+. Seleccione el menú de acción en la fila que corresponda a la suscripción que desea configurar y elija *Configurar*.
+. En el cuadro de diálogo _Configure_, seleccione una credencial para configurar la suscripción. Sólo puede elegir entre las credenciales asociadas al conector seleccionado actualmente. Si no ve la credencial que desea utilizar, intente cambiar a una vista de conector diferente. ## ¿se describe esto con precisión? ##
+
+
+
+
+== Asociar una suscripción a una organización de BlueXP 
+
+La asociación de una suscripción a una organización garantiza que los miembros de esa organización puedan utilizar esa suscripción para el cobro.
+
+Puede limitar el uso de una suscripción a una organización específica o compartir la suscripción entre varias organizaciones. También puede reemplazar la suscripción de una organización existente si surge la necesidad.
+
+Debe tener el rol de administrador de la organización para asociar una suscripción a una organización.
+
+
+NOTE: BlueXP  admite la gestión de acceso e identidad (IAM) en modo estándar que utiliza organizaciones para gestionar usuarios y recursos. Si utiliza BlueXP  en modo privado o restringido, utilice una _cuenta_ de BlueXP  para administrar usuarios y recursos, incluidas las suscripciones.
+
+.Pasos
+. En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
+. Selecciona *Suscripciones de Marketplace*.
+. Selecciona el menú de acción en la fila que corresponda a la suscripción que deseas asociar y elige *Asociar*.
+. En el cuadro de diálogo *Asociar la suscripción*, elija una organización(s) a la que asociar esta suscripción.
+. Opcionalmente, utilice el control deslizante para indicar que va a sustituir una suscripción existente para la organización seleccionada.
+. Seleccione *asociado*.
+
+
+
+
+== Ver las credenciales asociadas a una suscripción
+
+##Puede ver las credenciales de una suscripción específica desde la página *Suscripciones de Marketplace* en la cartera digital. Esto le permite verificar cómo se factura la suscripción. Dado que las credenciales también están vinculadas al conector que está utilizando, debe seleccionar el conector asociado a la suscripción que desea ver.##
+
+
+NOTE: Utilice la lista desplegable Conector en la barra de navegación superior para cambiar los conectores si es necesario.
+
+.Pasos
+. En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
+. Selecciona *Suscripciones de Marketplace*.
+. En la fila que contiene la suscripción cuyas credenciales desea ver, seleccione Ver. Si hay varias credenciales asociadas a una suscripción, no se mostrarán credenciales y se le indicará que seleccione un conector diferente.
+
+
+
+
+== Agregar una nueva suscripción de Marketplace
+
+Puedes suscribirte a una suscripción de Marketplace directamente desde la cartera digital.
+
+[role="tabbed-block"]
+====
+.AWS
+--
+En el siguiente vídeo se muestran los pasos para suscribirse a BlueXP  desde AWS Marketplace:
+
+.Suscríbete a BlueXP desde AWS Marketplace
+video::096e1740-d115-44cf-8c27-b051011611eb[panopto]
+--
+.Azure
+--
+En el siguiente vídeo se muestran los pasos para suscribirse desde Azure Marketplace:
+
+.Suscríbete a BlueXP desde Azure Marketplace
+video::b7e97509-2ecf-4fa0-b39b-b0510109a318[panopto]
+--
+.Google Cloud
+--
+En el siguiente vídeo se muestran los pasos para suscribirse desde Google Cloud Marketplace:
+
+.Suscríbete a BlueXP desde Google Cloud Marketplace
+video::373b96de-3691-4d84-b3f3-b05101161638[panopto]
+--
+====
+.Pasos
+. En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
+. Selecciona *Suscripciones de Marketplace*.
+. Encima de la tabla *Suscripciones*, selecciona *Añadir Suscripción*.
+. En el cuadro de diálogo _Add Subscription_, seleccione un proveedor de nube.
++
+.. Si elige una suscripción de AWS, elija si desea un contrato anual o una suscripción de PAYGO.
+
+
+. Seleccione *Añadir suscripción* para navegar al mercado del proveedor y completar los pasos proporcionados.
+. Cuando termine en el mercado del proveedor de cloud, vuelva a BlueXP  para completar el proceso.
 
