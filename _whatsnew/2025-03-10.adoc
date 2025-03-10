@@ -1,0 +1,15 @@
+= Posibilidad de eliminar suscripciones
+:allow-uri-read: 
+
+
+
+
+=== Posibilidad de eliminar suscripciones
+
+Ahora puede eliminar suscripciones de la cartera digital si ha cancelado su suscripción.
+
+
+
+=== Ver la capacidad consumida para las suscripciones de Marketplace
+
+Al visualizar las suscripciones PAYGO, ahora puede ver la capacidad consumida de la suscripción.

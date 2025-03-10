@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-manage-subscriptions.html 
-keywords: digital wallet, subscriptions, paygo subscriptions, contracts, annual contracts 
+keywords: digital wallet, subscriptions, paygo subscriptions, contracts, annual contracts, capacity 
 summary: Al suscribirse a BlueXP desde el mercado de un proveedor de la nube, se le redirigirá al sitio web de BlueXP donde necesita guardar su suscripción y asociarla a cuentas específicas. Una vez que se haya suscrito, cada suscripción se puede gestionar desde la cartera digital de BlueXP. 
 ---
 = Gestionar suscripciones y contratos de PAYGO
@@ -100,7 +100,7 @@ La opción Configurar aparece atenuada si se ha anulado la suscripción.
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
 . Selecciona *Suscripciones de Marketplace*.
 . Seleccione el menú de acción en la fila que corresponda a la suscripción que desea configurar y elija *Configurar*.
-. En el cuadro de diálogo _Configure_, seleccione una credencial para configurar la suscripción. Sólo puede elegir entre las credenciales asociadas al conector seleccionado actualmente. Si no ve la credencial que desea utilizar, intente cambiar a una vista de conector diferente. ## ¿se describe esto con precisión? ##
+. En el cuadro de diálogo _Configure_, seleccione una credencial para configurar la suscripción. Sólo puede elegir entre las credenciales asociadas al conector seleccionado actualmente. Si no ve la credencial que desea utilizar, intente cambiar a una vista de conector diferente.
 
 
 
@@ -129,7 +129,7 @@ NOTE: BlueXP  admite la gestión de acceso e identidad (IAM) en modo estándar 
 
 == Ver las credenciales asociadas a una suscripción
 
-##Puede ver las credenciales de una suscripción específica desde la página *Suscripciones de Marketplace* en la cartera digital. Esto le permite verificar cómo se factura la suscripción. Dado que las credenciales también están vinculadas al conector que está utilizando, debe seleccionar el conector asociado a la suscripción que desea ver.##
+Puede ver las credenciales de una suscripción específica desde la página *Suscripciones de Marketplace* en la cartera digital. Esto le permite verificar cómo se factura la suscripción. Dado que las credenciales también están vinculadas al conector que está utilizando, debe seleccionar el conector asociado a la suscripción que desea ver.
 
 
 NOTE: Utilice la lista desplegable Conector en la barra de navegación superior para cambiar los conectores si es necesario.
@@ -181,4 +181,22 @@ video::373b96de-3691-4d84-b3f3-b05101161638[panopto]
 
 . Seleccione *Añadir suscripción* para navegar al mercado del proveedor y completar los pasos proporcionados.
 . Cuando termine en el mercado del proveedor de cloud, vuelva a BlueXP  para completar el proceso.
+
+
+
+
+=== Eliminar una suscripción
+
+Cuando se cancela la suscripción a BlueXP  en el proveedor a hiperescala (AWS Google Cloud o Azure), la cartera digital muestra el estado de la suscripción como *Unsubscribe*.
+
+Puede eliminar las suscripciones no suscritas de la cartera digital para que ya no se muestren.
+
+.Pasos
+. En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
+. Selecciona *Suscripciones de Marketplace*.
+. Selecciona el menú de acción en la fila que corresponde a la suscripción que quieres eliminar Selecciona *Eliminar*.
++
+Solo puedes eliminar suscripciones que tengan el estado *Unsubscribe*.
+
+. En el cuadro de diálogo *Eliminar suscripción*, confirme que desea eliminar la suscripción.
 
