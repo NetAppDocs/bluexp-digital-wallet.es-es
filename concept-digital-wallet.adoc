@@ -22,6 +22,9 @@ La cartera digital de BlueXP  te permite gestionar y supervisar las licencias d
 
 Las licencias y suscripciones se muestran automáticamente en la cartera digital cuando la cuenta de BlueXP  que se utilizó para suscribirse también es una cuenta en el sitio de soporte de NetApp. Si ha usado una cuenta de BlueXP  que no está asociada con su cuenta del sitio de soporte de NetApp (NSS), deberá añadir y actualizar licencias manualmente y no verá cambiar el uso, la capacidad ni otros detalles.
 
+
+NOTE: Debe haber desplegado un conector para ver la información de suscripción en la cartera digital. También se necesita un conector para ver las licencias de nodos para Cloud Volumes ONTAP.
+
 Mientras tanto, BlueXP consulta automáticamente al servicio de licencias de NetApp para obtener detalles sobre las licencias asociadas a su cuenta de la página de soporte de NetApp. Si no se producen errores, BlueXP añade automáticamente las licencias a la cartera digital.
 
 Si BlueXP  no puede agregar la licencia, deberá añadirla manualmente a la cartera digital. Por ejemplo, si su cuenta de usuario de BlueXP  no está asociada con su cuenta del sitio de soporte de NetApp, tendrá que añadir dichas licencias.
