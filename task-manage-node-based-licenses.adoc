@@ -82,8 +82,8 @@ Si tienes una licencia basada en nodos sin asignar para Cloud Volumes ONTAP que 
 
 El intercambio de la licencia revoca la licencia de Cloud Volumes ONTAP y crea una licencia equivalente en dólares para el servicio:
 
-* La licencia de un par de alta disponibilidad de Cloud Volumes ONTAP se convierte en una licencia de servicio de datos de 51 TIB
-* La licencia de un único nodo de Cloud Volumes ONTAP se convierte en una licencia de servicio de datos de 32 TIB
+* La licencia de un par de alta disponibilidad de Cloud Volumes ONTAP se convierte en una licencia directa de 51 TiB
+* La licencia de un único nodo de Cloud Volumes ONTAP se convierte en una licencia directa de 32 TiB
 
 
 La licencia convertida tiene la misma fecha de caducidad que la licencia de Cloud Volumes ONTAP.

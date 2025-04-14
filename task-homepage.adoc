@@ -57,7 +57,7 @@ image:screenshot_digital_wallet_show_hide_columns.png["la captura de pantalla pr
 . Expanda cualquier fila para ver detalles de lo que incluye la suscripción o la licencia, la capacidad adquirida y las condiciones.
 . Utilice el menú Acciones para administrar una licencia o suscripción específica, como actualizar una licencia o asociar una suscripción a otra organización.
 +
-No puede agregar nuevas licencias o suscripciones desde la página *Descripción general* para un servicio específico, solo puede agregar licencias o suscripciones desde la pestaña *Licencias de servicio de datos* o la pestaña *Suscripciones de Marketplace*, respectivamente.
+No puede agregar nuevas licencias o suscripciones desde la página *Descripción general* para un servicio específico, solo puede agregar licencias o suscripciones desde la pestaña *Licencias directas* o la pestaña *Suscripciones de Marketplace*, respectivamente.
 
 +
 link:task-data-services-licenses.html["Obtenga más información sobre la gestión de licencias."] link:task-manage-subscriptions.html["Obtenga más información sobre la gestión de suscripciones."]

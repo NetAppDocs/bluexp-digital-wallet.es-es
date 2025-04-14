@@ -109,7 +109,7 @@ La opción Configurar aparece atenuada si se ha anulado la suscripción.
 
 La asociación de una suscripción a una organización garantiza que los miembros de esa organización puedan utilizar esa suscripción para el cobro.
 
-Puede limitar el uso de una suscripción a una organización específica o compartir la suscripción entre varias organizaciones. También puede reemplazar la suscripción de una organización existente si surge la necesidad.
+Puede limitar el uso de una suscripción a una organización específica o compartir la suscripción entre varias organizaciones.
 
 Debe tener el rol de administrador de la organización para asociar una suscripción a una organización.
 
@@ -119,9 +119,8 @@ NOTE: BlueXP  admite la gestión de acceso e identidad (IAM) en modo estándar 
 .Pasos
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
 . Selecciona *Suscripciones de Marketplace*.
-. Selecciona el menú de acción en la fila que corresponda a la suscripción que deseas asociar y elige *Asociar*.
-. En el cuadro de diálogo *Asociar la suscripción*, elija una organización(s) a la que asociar esta suscripción.
-. Opcionalmente, utilice el control deslizante para indicar que va a sustituir una suscripción existente para la organización seleccionada.
+. En la fila de la suscripción que desea asociar, abra el menú de acciones y seleccione *Asociar*.
+. En el cuadro de diálogo *Asociar la suscripción*, seleccione una o más organizaciones para asociarlas con la suscripción.
 . Seleccione *asociado*.
 
 
@@ -185,18 +184,39 @@ video::373b96de-3691-4d84-b3f3-b05101161638[panopto]
 
 
 
-=== Eliminar una suscripción
+=== Anular la configuración de una suscripción
 
-Cuando se cancela la suscripción a BlueXP  en el proveedor a hiperescala (AWS Google Cloud o Azure), la cartera digital muestra el estado de la suscripción como *Unsubscribe*.
-
-Puede eliminar las suscripciones no suscritas de la cartera digital para que ya no se muestren.
+Antes de poder eliminar una suscripción, debe anular su configuración. Esto borra todos los datos y ajustes asociados.
 
 .Pasos
-. En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
+. En el menú de navegación de BlueXP , selecciona *Gobernanza > Cartera digital*.
 . Selecciona *Suscripciones de Marketplace*.
-. Selecciona el menú de acción en la fila que corresponde a la suscripción que quieres eliminar Selecciona *Eliminar*.
+. En la fila de la suscripción que desea anular, haga clic en el menú de acción y seleccione *Desconfigurar*.
+. Siga las indicaciones para eliminar o restablecer los ajustes o datos asociados.
+. Espere a que el estado se actualice a *Unconfigured*.
+
+
+
+
+=== Eliminar una suscripción
+
+Cuando se cancela la suscripción de una suscripción de BlueXP  en su proveedor de la nube (AWS, Google Cloud o Azure), la cartera digital muestra el estado de la suscripción como *Unsubscribe*.
+
+Puede eliminar las suscripciones *Unsubscribe* de la cartera digital para que ya no aparezcan.
+
+[NOTE]
+====
+Solo puedes eliminar una suscripción si es *Unsubscribe* y *Unconfigured*. Esto significa que todos los ajustes, datos y configuración relacionados deben borrarse o restablecerse antes de la eliminación.
+
+Si la suscripción aún está configurada, la opción *Eliminar* no se muestra. Para que la opción esté disponible, anule la configuración de la suscripción borrando los ajustes, servicios o datos asociados.
+
+====
+.Pasos
+. En el menú de navegación de BlueXP , selecciona *Gobernanza > Cartera digital*.
+. Selecciona *Suscripciones de Marketplace*.
+. En la fila de la suscripción que desea eliminar, abra el menú de acción y seleccione *Eliminar*.
 +
-Solo puedes eliminar suscripciones que tengan el estado *Unsubscribe*.
+Solo puede eliminar suscripciones con el estado *Unsubscribe* y *Unconfigured*.
 
 . En el cuadro de diálogo *Eliminar suscripción*, confirme que desea eliminar la suscripción.
 

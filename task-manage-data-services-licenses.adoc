@@ -17,7 +17,7 @@ summary: 'La cartera digital de BlueXP  te permite gestionar las licencias que 
 La cartera digital de BlueXP  te permite gestionar las licencias que hayas adquirido directamente a NetApp (BYOL) para su uso con los servicios de datos de BlueXP , incluido Cloud Volumes para ONTAP. Puede ver la capacidad de la licencia usada, la cantidad de capacidad libre que queda y ver las notificaciones si ha alcanzado el límite de capacidad o la fecha de caducidad.
 
 
-NOTE: La página *Licencias de servicio de datos* enumera todas las licencias. Si desea obtener detalles de licencia para un servicio de datos específico, utilice los mosaicos de servicios de datos en el panel *Overview*. link:task-homepage.html#overview-page["Obtenga más información sobre el panel Descripción general"].
+NOTE: La página *Direct licenses* enumera todas las licencias. Si desea obtener detalles de licencia para un servicio de datos específico, utilice los mosaicos de servicios de datos en el panel *Overview*. link:task-homepage.html#overview-page["Obtenga más información sobre el panel Descripción general"].
 
 Las instrucciones de esta página proporcionan información que se aplica a cada servicio. Para obtener información más específica sobre la licencia de estos servicios, consulte las siguientes páginas:
 
@@ -84,7 +84,7 @@ Después de adquirir una licencia de su representante de ventas de NetApp, NetAp
 NOTE: Si desea introducir el número de serie, primero tiene que hacerlo https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Agregue su cuenta de la página de soporte de NetApp a BlueXP"^]. Esta es la cuenta del sitio de soporte de NetApp que está autorizada para acceder al número de serie.
 
 .Pasos
-. En el menú BlueXP , selecciona *Gobernanza > Cartera digital* y, a continuación, selecciona la pestaña *Licencias de servicios de datos*.
+. En el menú BlueXP , selecciona *Gobernanza > Cartera digital* y, a continuación, selecciona la pestaña *Licencias directas*.
 . Seleccione *Agregar licencia*.
 . En el cuadro de diálogo _Add license_, introduzca la información de licencia y seleccione *Add license*:
 +
@@ -120,9 +120,20 @@ NOTE: Si desea introducir el número de serie, primero tiene que hacerlo https:/
 .Pasos
 . Póngase en contacto con su representante de NetApp para adquirir una nueva licencia.
 +
-Después de pagar la licencia y de estar registrado en el sitio de soporte de NetApp, BlueXP  actualiza automáticamente la licencia en la cartera digital de BlueXP  y la página de licencias de servicio de datos reflejará el cambio en un plazo de 5 a 10 minutos.
+Después de pagar la licencia y de estar registrado en el sitio de soporte de NetApp, BlueXP  actualiza automáticamente la licencia en la cartera digital de BlueXP  y la página de licencias directas reflejará el cambio en un plazo de 5 a 10 minutos.
 
 . Si BlueXP  no puede actualizar automáticamente la licencia (por ejemplo, cuando usa BlueXP  en modo privado), deberá obtener un archivo de licencia de NetApp del soporte técnico y cargar manualmente el archivo de licencia. <<obtain-license,Aprenda cómo obtener un archivo de licencia.>>
-. En la pestaña _Data service licenses_, seleccione image:icon-action.png["Icono más"] el número de serie que está actualizando y seleccione *Actualizar licencia*.
-. En la página _Actualizar licencia_, cargue el archivo de licencia y seleccione *Actualizar licencia*.
+. En la pestaña *Licencias directas*, image:icon-action.png["Icono más"]seleccione el número de serie que está actualizando y seleccione *Actualizar licencia*.
+. En la página *Actualizar licencia*, sube el archivo de licencia y selecciona *Actualizar licencia*.
+
+
+
+
+== Ver el estado de la licencia
+
+Para gestionar las licencias, puede agrupar las licencias según el nombre del servicio. Esto le permite ver todas las licencias relacionadas con un servicio específico. Puede expandir una fila para ver información detallada sobre cada licencia relacionada con el servicio. La fila raíz de cada servicio muestra el nombre del servicio y la capacidad utilizada para ese servicio. Las licencias se agrupan automáticamente por nombre de servicio. La fila raíz de cada servicio muestra el nombre del servicio y la capacidad utilizada para ese servicio.
+
+.Pasos
+. En el menú BlueXP , selecciona *Gobernanza* > *Cartera digital* y, a continuación, selecciona la pestaña *Licencias directas*.
+. Haga clic en una fila de nombre de servicio para ampliarla. Muestra todas las licencias relacionadas con ese servicio. Cada fila expandida muestra información detallada sobre las licencias, incluyendo el ID de licencia, el número de serie, la capacidad y la fecha de vencimiento.
 
