@@ -82,9 +82,13 @@ Si cambia al modo heredado en la página Cloud Volumes ONTAP, puede ver detalles
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
 . En la pestaña *Descripción general*, el mosaico Cloud Volumes ONTAP muestra la capacidad actual aprovisionada para su cuenta.
 . Selecciona *Ver* para ver la capacidad suministrada para cada uno de tus paquetes de licencias.
-. Selecciona *Cambiar a Vista heredada*.
+. Selecciona *Cambiar a vista avanzada*.
 +
-image:screenshot_digital_wallet_legacy_view.png["Captura de pantalla del botón Cambiar a la vista de legado"]
+image:screenshot_digital_wallet_legacy_view.png["Captura de pantalla del botón Cambiar a vista avanzada"]
+
+. Vea los detalles del paquete que desea ver.
++
+image:screenshot_digital_wallet_standard_view.png["Una captura de pantalla del botón Cambiar al botón de vista estándar"]
 
 
 
@@ -108,7 +112,7 @@ BlueXP siempre intenta cobrar primero una licencia. Si una licencia no está dis
 . En el menú de navegación de BlueXP, seleccione *Gobierno > cartera digital*.
 . Seleccione la ficha *Descripción general*.
 . En el mosaico Cloud Volumes ONTAP, seleccione *Ver*.
-. Selecciona *Cambiar a Vista heredada*.
+. Selecciona *Cambiar a vista avanzada*.
 +
 image:screenshot_digital_wallet_legacy_view.png["Captura de pantalla del botón Cambiar a la vista de legado"]
 
