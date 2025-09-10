@@ -143,7 +143,7 @@ Los siguientes informes están disponibles para su descarga. Los valores de capa
 ** Capacidad total de PAYGO
 
 
-* *Uso del paquete Cloud Volumes ONTAP*: Este informe incluye la siguiente información para cada paquete excepto el paquete de E/S optimizado:
+* *Uso de paquetes de Cloud Volumes ONTAP *: este informe incluye la siguiente información para cada paquete:
 +
 ** La capacidad total consumida
 ** Capacidad precomprometida total

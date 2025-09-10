@@ -1,0 +1,116 @@
+---
+sidebar: sidebar 
+permalink: task-manage-private-aws-cloud-insights.html 
+keywords: activate,license, licensing, install, request capacity, link subscription, digital wallet, keystone flex, digital wallet, bluexp digital wallet 
+summary: Administre sus guías de aceptación y activación de procesos de oferta privada de extremo a extremo, generales y específicos de Hyperscaler, y de servicios inteligentes de NetApp para AWS, Azure y Google Cloud. 
+---
+= Acepte y configure una oferta privada de AWS Marketplace para NetApp Cloud Insights
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Acepte una oferta privada de Marketplace para NetApp Cloud Insights en la consola de AWS.  Conecte la suscripción de AWS a un entorno de trabajo de Cloud Insights .
+
+.Antes de empezar
+* Trabaje con el equipo de ventas de NetApp para crear una oferta privada y obtener el enlace de la oferta.
+* Trabaje con el equipo de ventas de NetApp para crear un entorno de trabajo de Cloud Insights y agregue su correo electrónico con el rol de *Propietario*.
+* Asegúrese de tener lo requeridolink:https://docs.aws.amazon.com/marketplace/latest/buyerguide/buyer-iam-users-groupspolicies.html["Permisos de AWS Marketplace"]
+
+
+
+
+== Acepte la oferta privada en la consola de AWS
+
+[IMPORTANT]
+====
+Debes completar todos los pasos para activar tu oferta privada.  Saltarse algunos pasos puede ocasionar problemas de activación o errores de facturación, incluido cobro doble.
+
+====
+.Pasos
+. Haga clic en el enlace de activación de oferta privada proporcionado por su equipo de ventas de NetApp .  El enlace debería verse similar al siguiente:
+`https://aws.amazon.com/marketplace/saas/ordering?productId=aaa&offerId=offer-aaa`
++
+[NOTE]
+====
+Si no recibió un enlace de activación, puede ver todas las ofertas privadas en la consola de AWS.
+
+** Políticas administradas requeridas: *AWSMarketplaceRead-only*, *AWSMarketplaceManageSubscriptions* o *AWSMarketplaceFullAccess*
+** Si utiliza políticas de IAM personalizadas: `aws-marketplace:ListPrivateListings` y `aws-marketplace:ViewSubscriptions`
+
+
+====
+. Se le redirige a AWS Marketplace para ver y aceptar la oferta privada.
++
+[NOTE]
+====
+Las ofertas privadas se crean sobre listados públicos.  Utilice el menú desplegable *Selección de oferta* para alternar entre ofertas públicas y privadas.
+
+====
+. Revise los detalles de la oferta privada y valide que coincidan con su acuerdo.
++
+.. Si la información es incorrecta no la acepte.  Comuníquese con su equipo de ventas de NetApp para modificar la oferta.
+.. La facturación comienza una vez que seleccionas *Suscribirse*.
++
+[NOTE]
+====
+Existen dos tipos de ofertas privadas en AWS:
+
+*** *Uso bajo demanda*
++
+**** Información de precios
+**** Términos legales
+
+
+*** *Contrato*
++
+**** Duración y fechas
+**** Configuración de renovación
+**** Opciones de contrato
+**** Precio total del contrato
+
+
+
+
+Para ofertas de contrato, ingrese el número de unidades administradas según lo acordado.
+
+====
+
+
+. Para aceptar la oferta privada:
++
+.. Para uso bajo demanda, haga clic en *Suscribirse*.
+.. Para ofertas de contrato, ingrese la cantidad de unidades administradas para cada servicio y haga clic en *Crear contrato*.
+
+
+. Después de aceptar, un banner confirma que se ha suscrito correctamente y le proporciona los siguientes pasos.
+. Haga clic en *Configurar su cuenta*.  Esto lo redirecciona a NetApp Cloud Insights para configurar su suscripción a Marketplace.
++
+[NOTE]
+====
+Si se aceptó la oferta pero no se completó el registro, regrese a la página del producto.  Se le pedirá que complete el registro.
+
+Para ofertas de contrato, haga clic en *Ver opciones de compra* para ver la oferta privada, luego seleccione *Configurar su cuenta*.
+
+====
+
+
+
+
+== Conectar la suscripción a Cloud Insights
+
+.Pasos
+. Serás redirigido a https://cloudinsights.netapp.com[] y se le solicitará que inicie sesión con su cuenta BlueXP .
+. Inicie sesión con una cuenta que tenga el rol de *Propietario*.  La suscripción se asocia con su entorno de trabajo de Cloud Insights .
++
+[NOTE]
+====
+Este paso es necesario solo una vez por cada suscripción.  Las renovaciones y complementos se aplican automáticamente.
+
+====
+. La suscripción ahora está conectada.
+

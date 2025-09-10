@@ -33,6 +33,24 @@ sidebar:
           url: "/task-manage-capacity-licenses.html"
         - title: Licencias basadas en nodos para Cloud Volumes ONTAP
           url: "/task-manage-node-based-licenses.html"
+    - title: Gestionar ofertas privadas
+      entries:
+      - title: Administrar ofertas privadas de AWS
+        entries:
+        - title: Administrar una oferta privada de AWS para BlueXP
+          url: "/task-manage-private-aws.html"
+        - title: Administrar una oferta privada de AWS para Data Infrastructure Insights
+          url: "/task-manage-private-aws-cloud-insights.html"
+      - title: Administrar ofertas privadas de Azure
+        entries:
+        - title: Administrar una oferta privada de Azure para BlueXP
+          url: "/task-manage-private-azure.html"
+        - title: Administrar una oferta privada de Azure para NetApp Cloud Insights
+          url: "/task-manage-private-azure-data.html"
+      - title: Administrar ofertas privadas de Google Cloud
+        entries:
+        - title: Administrar una oferta privada de Google Cloud para NetApp BlueXP
+          url: "/task-manage-private-google-cloud.html"
     - title: Gestionar suscripciones de Marketplace
       url: "/task-manage-subscriptions.html"
     - title: Gestiona las suscripciones de Keystone
