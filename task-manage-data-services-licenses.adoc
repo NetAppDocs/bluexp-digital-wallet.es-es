@@ -21,7 +21,7 @@ NOTE: La página *Direct licenses* enumera todas las licencias. Si desea obtener
 
 Las instrucciones de esta página proporcionan información que se aplica a cada servicio. Para obtener información más específica sobre la licencia de estos servicios, consulte las siguientes páginas:
 
-* https://docs.netapp.com/us-en/bluexp-backup-recovery/task-licensing-cloud-backup.html["Configura las licencias para el backup y la recuperación de BlueXP"^]
+* https://docs.netapp.com/us-en/bluexp-backup-recovery/br-start-licensing.html["Configura las licencias para el backup y la recuperación de BlueXP"^]
 * https://docs.netapp.com/us-en/bluexp-disaster-recovery/get-started/dr-licensing.html["Configura las licencias para la recuperación ante desastres de BlueXP"^]
 * https://docs.netapp.com/us-en/bluexp-ransomware-protection/rp-start-licenses.html["Configura las licencias para la protección frente al ransomware de BlueXP"^]
 * https://docs.netapp.com/us-en/bluexp-tiering/task-licensing-cloud-tiering.html["Configura las licencias para la organización en niveles de BlueXP"^]
